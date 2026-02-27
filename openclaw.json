@@ -1,7 +1,7 @@
 {
   "meta": {
     "lastTouchedVersion": "2026.2.25",
-    "lastTouchedAt": "2026-02-26T14:05:36.874Z"
+    "lastTouchedAt": "2026-02-27T01:34:50.448Z"
   },
   "wizard": {
     "lastRunAt": "2026-02-26T14:03:21.230Z",
@@ -36,7 +36,7 @@
     "list": [
       {
         "id": "main",
-        "model": "google/gemini-3-pro-preview"
+        "model": "google/gemini-2.0-flash"
       },
       {
         "id": "google",

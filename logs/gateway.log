@@ -2995,3 +2995,9 @@
 2026-02-27T00:20:35.384Z [ws] webchat connected conn=9fac9ad7-95e8-43a0-970e-500f7ab1a65f remote=127.0.0.1 client=openclaw-control-ui webchat vdev
 2026-02-27T00:56:11.522Z [ws] webchat disconnected code=1001 reason=n/a conn=9fac9ad7-95e8-43a0-970e-500f7ab1a65f
 2026-02-27T00:56:11.780Z [ws] webchat connected conn=e391dc83-4f17-4f47-9e1d-2bd5f952435c remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-27T01:34:12.633Z [ws] webchat disconnected code=1001 reason=n/a conn=e391dc83-4f17-4f47-9e1d-2bd5f952435c
+2026-02-27T01:34:12.889Z [ws] webchat connected conn=9ee6195b-062e-4810-9eda-456a2824ef66 remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-27T01:34:34.483Z [ws] webchat disconnected code=1001 reason=n/a conn=9ee6195b-062e-4810-9eda-456a2824ef66
+2026-02-27T01:34:34.617Z [ws] webchat connected conn=9ba364a6-a547-4158-943e-1755a962fe3b remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-27T01:34:50.964Z [reload] config change detected; evaluating reload (meta.lastTouchedAt, agents.list)
+2026-02-27T01:34:50.966Z [reload] config change applied (dynamic reads: meta.lastTouchedAt, agents.list)

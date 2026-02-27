@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "profiles": {
+    "google:default": {
+      "type": "api_key",
+      "provider": "google",
+      "key": "AIzaSyATBCwAIK3AJhM-TQMOYhoc57tT-vw4hQc"
+    },
+    "github-copilot:github": {
+      "type": "token",
+      "provider": "github-copilot",
+      "token": "ghu_3F5p225AMGVwvh8pAiReJ9caULHTyZ37HgbK"
+    }
+  },
+  "lastGood": {
+    "google": "google:default"
+  },
+  "usageStats": {
+    "google:default": {
+      "lastUsed": 1772156097217,
+      "errorCount": 0,
+      "lastFailureAt": 1772156097213
+    }
+  }
+}

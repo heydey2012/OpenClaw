@@ -1,7 +1,7 @@
 {
   "agent:main:main": {
     "sessionId": "954091b8-79fa-4dfe-ae16-62f368cff074",
-    "updatedAt": 1772153791813,
+    "updatedAt": 1772157140537,
     "systemSent": true,
     "abortedLastRun": false,
     "chatType": "direct",
@@ -12,7 +12,7 @@
     "lastTo": "heartbeat",
     "origin": {
       "label": "heartbeat",
-      "provider": "webchat",
+      "provider": "heartbeat",
       "from": "heartbeat",
       "to": "heartbeat",
       "surface": "webchat",
@@ -103,15 +103,15 @@
     "authProfileOverrideCompactionCount": 0,
     "lastChannel": "webchat",
     "modelProvider": "google",
-    "model": "gemini-3-pro-preview",
-    "contextTokens": 128000,
+    "model": "gemini-2.0-flash",
+    "contextTokens": 1048576,
     "systemPromptReport": {
       "source": "run",
-      "generatedAt": 1772153776164,
+      "generatedAt": 1772156096977,
       "sessionId": "954091b8-79fa-4dfe-ae16-62f368cff074",
       "sessionKey": "agent:main:main",
       "provider": "google",
-      "model": "gemini-3-pro-preview",
+      "model": "gemini-2.0-flash",
       "workspaceDir": "/Users/heydey/.openclaw/workspace",
       "bootstrapMaxChars": 20000,
       "bootstrapTotalMaxChars": 150000,
@@ -120,9 +120,9 @@
         "sandboxed": false
       },
       "systemPrompt": {
-        "chars": 26091,
+        "chars": 26073,
         "projectContextChars": 14590,
-        "nonProjectContextChars": 11501
+        "nonProjectContextChars": 11483
       },
       "injectedWorkspaceFiles": [
         {

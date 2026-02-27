@@ -4,12 +4,12 @@
     "google:default": {
       "type": "api_key",
       "provider": "google",
-      "key": "AIzaSyATBCwAIK3AJhM-TQMOYhoc57tT-vw4hQc"
+      "key": "AI_xxxxxxxxxxxxxxxxx"
     },
     "github-copilot:github": {
       "type": "token",
       "provider": "github-copilot",
-      "token": "ghu_3F5p225AMGVwvh8pAiReJ9caULHTyZ37HgbK"
+      "token": "ghu_xxxxxxxxxxxxxxxxx"
     }
   },
   "lastGood": {
