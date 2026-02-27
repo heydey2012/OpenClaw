@@ -1,0 +1,2997 @@
+2026-02-25T00:05:20.595Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/heydey/.openclaw/canvas)
+2026-02-25T00:05:20.631Z [heartbeat] started
+2026-02-25T00:05:20.632Z [health-monitor] started (interval: 300s, grace: 60s)
+2026-02-25T00:05:20.633Z [gateway] agent model: google/gemini-1.5-flash
+2026-02-25T00:05:20.634Z [gateway] listening on ws://127.0.0.1:18789, ws://[::1]:18789 (PID 723)
+2026-02-25T00:05:20.634Z [gateway] log file: /tmp/openclaw/openclaw-2026-02-25.log
+2026-02-25T00:05:20.638Z [browser/service] Browser control service ready (profiles=2)
+2026-02-25T00:06:34.880Z [ws] webchat connected conn=803b5482-0909-4b7b-8ff6-f086e2759b93 remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-25T00:06:41.572Z [ws] webchat disconnected code=1001 reason=n/a conn=803b5482-0909-4b7b-8ff6-f086e2759b93
+2026-02-25T00:06:41.598Z [ws] webchat connected conn=14a0f023-f388-4512-9a8d-c96467454151 remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-25T00:07:12.492Z [gateway] signal SIGTERM received
+2026-02-25T00:07:12.492Z [gateway] received SIGTERM; shutting down
+2026-02-25T00:07:12.495Z [gmail-watcher] gmail watcher stopped
+2026-02-25T00:07:12.669Z [ws] webchat disconnected code=1012 reason=service restart conn=14a0f023-f388-4512-9a8d-c96467454151
+2026-02-25T05:56:15.044Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/heydey/.openclaw/canvas)
+2026-02-25T05:56:25.390Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/heydey/.openclaw/canvas)
+2026-02-25T05:56:35.715Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/heydey/.openclaw/canvas)
+2026-02-25T05:56:46.071Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/heydey/.openclaw/canvas)
+2026-02-25T05:56:56.354Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/heydey/.openclaw/canvas)
+2026-02-25T05:57:06.652Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/heydey/.openclaw/canvas)
+2026-02-25T05:57:16.937Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/heydey/.openclaw/canvas)
+2026-02-25T05:57:27.231Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/heydey/.openclaw/canvas)
+2026-02-25T05:57:37.523Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/heydey/.openclaw/canvas)
+2026-02-25T05:57:47.851Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/heydey/.openclaw/canvas)
+2026-02-25T05:57:58.173Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/heydey/.openclaw/canvas)
+2026-02-25T05:58:08.450Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/heydey/.openclaw/canvas)
+2026-02-25T05:58:18.765Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/heydey/.openclaw/canvas)
+2026-02-25T05:58:29.062Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/heydey/.openclaw/canvas)
+2026-02-25T05:58:39.342Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/heydey/.openclaw/canvas)
+2026-02-25T05:58:49.637Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/heydey/.openclaw/canvas)
+2026-02-25T05:58:59.906Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/heydey/.openclaw/canvas)
+2026-02-25T05:59:10.203Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/heydey/.openclaw/canvas)
+2026-02-25T05:59:20.677Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/heydey/.openclaw/canvas)
+2026-02-25T05:59:31.029Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/heydey/.openclaw/canvas)
+2026-02-25T05:59:41.320Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/heydey/.openclaw/canvas)
+2026-02-25T05:59:51.617Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/heydey/.openclaw/canvas)
+2026-02-25T06:00:02.356Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/heydey/.openclaw/canvas)
+2026-02-25T06:00:12.697Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/heydey/.openclaw/canvas)
+2026-02-25T06:00:23.024Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/heydey/.openclaw/canvas)
+2026-02-25T06:00:33.348Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/heydey/.openclaw/canvas)
+2026-02-25T06:00:43.694Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/heydey/.openclaw/canvas)
+2026-02-25T06:00:54.009Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/heydey/.openclaw/canvas)
+2026-02-25T06:01:04.323Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/heydey/.openclaw/canvas)
+2026-02-25T06:01:14.618Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/heydey/.openclaw/canvas)
+2026-02-25T06:01:24.905Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/heydey/.openclaw/canvas)
+2026-02-25T06:01:35.186Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/heydey/.openclaw/canvas)
+2026-02-25T06:01:45.478Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/heydey/.openclaw/canvas)
+2026-02-25T06:01:55.773Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/heydey/.openclaw/canvas)
+2026-02-25T06:02:16.067Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/heydey/.openclaw/canvas)
+2026-02-25T06:02:26.374Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/heydey/.openclaw/canvas)
+2026-02-25T06:02:36.765Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/heydey/.openclaw/canvas)
+2026-02-25T06:02:47.084Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/heydey/.openclaw/canvas)
+2026-02-25T06:02:57.368Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/heydey/.openclaw/canvas)
+2026-02-25T06:03:07.662Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/heydey/.openclaw/canvas)
+2026-02-25T06:03:07.700Z [heartbeat] started
+2026-02-25T06:03:07.702Z [health-monitor] started (interval: 300s, grace: 60s)
+2026-02-25T06:03:07.703Z [gateway] agent model: github-copilot/claude-sonnet-4.6
+2026-02-25T06:03:07.703Z [gateway] listening on ws://127.0.0.1:18789, ws://[::1]:18789 (PID 10367)
+2026-02-25T06:03:07.704Z [gateway] log file: /tmp/openclaw/openclaw-2026-02-25.log
+2026-02-25T06:03:07.712Z [browser/service] Browser control service ready (profiles=2)
+2026-02-25T06:03:07.846Z [hooks:loader] Registered hook: boot-md -> gateway:startup
+2026-02-25T06:03:07.848Z [hooks:loader] Registered hook: bootstrap-extra-files -> agent:bootstrap
+2026-02-25T06:03:07.848Z [hooks:loader] Registered hook: command-logger -> command
+2026-02-25T06:03:07.851Z [hooks:loader] Registered hook: session-memory -> command:new, command:reset
+2026-02-25T06:03:07.852Z [hooks] loaded 4 internal hook handlers
+2026-02-25T06:03:08.907Z [ws] ⇄ res ✓ chat.history 348ms conn=7ac39e88…6beb id=ee090948…3ee4
+2026-02-25T06:03:25.632Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/heydey/.openclaw/canvas)
+2026-02-25T06:03:25.657Z [heartbeat] started
+2026-02-25T06:03:25.658Z [health-monitor] started (interval: 300s, grace: 60s)
+2026-02-25T06:03:25.660Z [gateway] agent model: github-copilot/claude-sonnet-4.6
+2026-02-25T06:03:25.660Z [gateway] listening on ws://127.0.0.1:18789, ws://[::1]:18789 (PID 10395)
+2026-02-25T06:03:25.661Z [gateway] log file: /tmp/openclaw/openclaw-2026-02-25.log
+2026-02-25T06:03:25.669Z [browser/service] Browser control service ready (profiles=2)
+2026-02-25T06:03:25.790Z [hooks:loader] Registered hook: boot-md -> gateway:startup
+2026-02-25T06:03:25.790Z [hooks:loader] Registered hook: bootstrap-extra-files -> agent:bootstrap
+2026-02-25T06:03:25.791Z [hooks:loader] Registered hook: command-logger -> command
+2026-02-25T06:03:25.794Z [hooks:loader] Registered hook: session-memory -> command:new, command:reset
+2026-02-25T06:03:25.794Z [hooks] loaded 4 internal hook handlers
+2026-02-25T06:04:45.882Z [reload] config change detected; evaluating reload (meta.lastTouchedAt)
+2026-02-25T06:04:45.885Z [reload] config change applied (dynamic reads: meta.lastTouchedAt)
+2026-02-25T06:04:53.078Z [reload] config change detected; evaluating reload (meta.lastTouchedAt)
+2026-02-25T06:04:53.081Z [reload] config change applied (dynamic reads: meta.lastTouchedAt)
+2026-02-25T06:05:35.711Z [reload] config change detected; evaluating reload (meta.lastTouchedAt, wizard.lastRunAt)
+2026-02-25T06:05:35.714Z [reload] config change applied (dynamic reads: meta.lastTouchedAt, wizard.lastRunAt)
+2026-02-25T06:05:39.210Z [gateway] signal SIGTERM received
+2026-02-25T06:05:39.212Z [gateway] received SIGTERM; shutting down
+2026-02-25T06:05:39.222Z [gmail-watcher] gmail watcher stopped
+2026-02-25T06:05:43.732Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/heydey/.openclaw/canvas)
+2026-02-25T06:05:43.757Z [heartbeat] started
+2026-02-25T06:05:43.759Z [health-monitor] started (interval: 300s, grace: 60s)
+2026-02-25T06:05:43.760Z [gateway] agent model: github-copilot/claude-sonnet-4.6
+2026-02-25T06:05:43.760Z [gateway] listening on ws://127.0.0.1:18789, ws://[::1]:18789 (PID 10471)
+2026-02-25T06:05:43.761Z [gateway] log file: /tmp/openclaw/openclaw-2026-02-25.log
+2026-02-25T06:05:43.773Z [browser/service] Browser control service ready (profiles=2)
+2026-02-25T06:05:43.889Z [hooks:loader] Registered hook: boot-md -> gateway:startup
+2026-02-25T06:05:43.890Z [hooks:loader] Registered hook: bootstrap-extra-files -> agent:bootstrap
+2026-02-25T06:05:43.890Z [hooks:loader] Registered hook: command-logger -> command
+2026-02-25T06:05:43.893Z [hooks:loader] Registered hook: session-memory -> command:new, command:reset
+2026-02-25T06:05:43.893Z [hooks] loaded 4 internal hook handlers
+2026-02-25T06:06:36.429Z [ws] ⇄ res ✓ chat.history 488ms conn=8fbe9a13…0440 id=33964821…1929
+2026-02-25T13:40:32.880Z [ws] webchat connected conn=71817d8d-b592-4ef9-834c-aed8fe5ad74d remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-25T22:40:37.503+09:00 [hooks/session-memory] Session context saved to ~/.openclaw/workspace/memory/2026-02-25-1340.md
+2026-02-25T16:28:46.457Z [ws] webchat disconnected code=1006 reason=n/a conn=71817d8d-b592-4ef9-834c-aed8fe5ad74d
+2026-02-25T16:28:47.942Z [ws] webchat connected conn=c3dd9069-f5f0-4238-8370-b4224b7472ef remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-25T19:17:38.259Z [ws] webchat disconnected code=1006 reason=n/a conn=c3dd9069-f5f0-4238-8370-b4224b7472ef
+2026-02-25T19:17:39.490Z [ws] webchat connected conn=a5562d8b-76e9-419f-99ed-52a7ac7fe6af remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-25T19:19:45.370Z [ws] webchat disconnected code=1006 reason=n/a conn=a5562d8b-76e9-419f-99ed-52a7ac7fe6af
+2026-02-25T19:19:46.878Z [ws] webchat connected conn=dacc3f10-00c2-449d-b8a0-721e26cafb58 remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-25T23:58:39.284Z [ws] webchat disconnected code=1006 reason=n/a conn=dacc3f10-00c2-449d-b8a0-721e26cafb58
+2026-02-25T23:58:40.520Z [ws] webchat connected conn=b7646905-00eb-43b9-bfd9-9c3a7e70ec13 remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T09:03:34.088+09:00 [hooks/session-memory] Session context saved to ~/.openclaw/workspace/memory/2026-02-26-0003.md
+2026-02-26T00:04:13.522Z [ws] webchat disconnected code=1001 reason=n/a conn=b7646905-00eb-43b9-bfd9-9c3a7e70ec13
+2026-02-26T00:04:13.775Z [ws] webchat connected conn=ee9545e6-8efb-4e97-8aad-07e2db001c12 remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T01:29:34.288Z [ws] webchat disconnected code=1006 reason=n/a conn=ee9545e6-8efb-4e97-8aad-07e2db001c12
+2026-02-26T01:29:35.265Z [ws] webchat connected conn=01cb8180-6fe8-44be-9a76-f6f66fd65be1 remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T01:47:25.544Z [reload] config change detected; evaluating reload (meta.lastTouchedAt)
+2026-02-26T01:47:25.547Z [reload] config change applied (dynamic reads: meta.lastTouchedAt)
+2026-02-26T01:47:37.068Z [reload] config change detected; evaluating reload (meta.lastTouchedAt)
+2026-02-26T01:47:37.069Z [reload] config change applied (dynamic reads: meta.lastTouchedAt)
+2026-02-26T01:49:29.184Z [reload] config change detected; evaluating reload (meta.lastTouchedAt, wizard.lastRunAt)
+2026-02-26T01:49:29.186Z [reload] config change applied (dynamic reads: meta.lastTouchedAt, wizard.lastRunAt)
+2026-02-26T01:49:35.471Z [gateway] signal SIGTERM received
+2026-02-26T01:49:35.472Z [gateway] received SIGTERM; shutting down
+2026-02-26T01:49:35.480Z [gmail-watcher] gmail watcher stopped
+2026-02-26T01:49:35.684Z [ws] webchat disconnected code=1012 reason=service restart conn=01cb8180-6fe8-44be-9a76-f6f66fd65be1
+2026-02-26T01:49:47.617Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/heydey/.openclaw/canvas)
+2026-02-26T01:49:47.648Z [heartbeat] started
+2026-02-26T01:49:47.649Z [health-monitor] started (interval: 300s, grace: 60s)
+2026-02-26T01:49:47.650Z [gateway] agent model: github-copilot/claude-sonnet-4.6
+2026-02-26T01:49:47.651Z [gateway] listening on ws://127.0.0.1:18789, ws://[::1]:18789 (PID 15946)
+2026-02-26T01:49:47.651Z [gateway] log file: /tmp/openclaw/openclaw-2026-02-26.log
+2026-02-26T01:49:47.656Z [browser/service] Browser control service ready (profiles=2)
+2026-02-26T01:49:47.782Z [hooks:loader] Registered hook: boot-md -> gateway:startup
+2026-02-26T01:49:47.784Z [hooks:loader] Registered hook: bootstrap-extra-files -> agent:bootstrap
+2026-02-26T01:49:47.784Z [hooks:loader] Registered hook: command-logger -> command
+2026-02-26T01:49:47.787Z [hooks:loader] Registered hook: session-memory -> command:new, command:reset
+2026-02-26T01:49:47.788Z [hooks] loaded 4 internal hook handlers
+2026-02-26T01:49:47.888Z [gateway] update available (latest): v2026.2.24 (current v2026.2.22-2). Run: openclaw update
+2026-02-26T01:49:50.474Z [ws] ⇄ res ✓ chat.history 394ms conn=0c51f70a…1ac6 id=071d0262…41be
+2026-02-26T01:49:52.594Z [ws] webchat connected conn=196c326a-01b2-41f9-801d-62aee1f2d740 remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T01:59:09.279Z [reload] config change detected; evaluating reload (meta.lastTouchedAt, agents.defaults.model.fallbacks)
+2026-02-26T01:59:09.280Z [reload] config change applied (dynamic reads: meta.lastTouchedAt, agents.defaults.model.fallbacks)
+2026-02-26T02:00:03.719Z [gateway] signal SIGTERM received
+2026-02-26T02:00:03.719Z [gateway] received SIGTERM; shutting down
+2026-02-26T02:00:03.722Z [gmail-watcher] gmail watcher stopped
+2026-02-26T02:00:03.886Z [ws] webchat disconnected code=1012 reason=service restart conn=196c326a-01b2-41f9-801d-62aee1f2d740
+2026-02-26T02:00:05.477Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/heydey/.openclaw/canvas)
+2026-02-26T02:00:05.505Z [heartbeat] started
+2026-02-26T02:00:05.507Z [health-monitor] started (interval: 300s, grace: 60s)
+2026-02-26T02:00:05.508Z [gateway] agent model: github-copilot/claude-sonnet-4.6
+2026-02-26T02:00:05.508Z [gateway] listening on ws://127.0.0.1:18789, ws://[::1]:18789 (PID 16128)
+2026-02-26T02:00:05.509Z [gateway] log file: /tmp/openclaw/openclaw-2026-02-26.log
+2026-02-26T02:00:05.512Z [browser/service] Browser control service ready (profiles=2)
+2026-02-26T02:00:05.649Z [hooks:loader] Registered hook: boot-md -> gateway:startup
+2026-02-26T02:00:05.650Z [hooks:loader] Registered hook: bootstrap-extra-files -> agent:bootstrap
+2026-02-26T02:00:05.651Z [hooks:loader] Registered hook: command-logger -> command
+2026-02-26T02:00:05.654Z [hooks:loader] Registered hook: session-memory -> command:new, command:reset
+2026-02-26T02:00:05.655Z [hooks] loaded 4 internal hook handlers
+2026-02-26T02:00:05.669Z [ws] webchat connected conn=b2685249-d6ef-4269-b476-5a22ea679f75 remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T02:00:06.047Z [ws] ⇄ res ✓ chat.history 375ms conn=b2685249…9f75 id=9fdf4a8f…d9e9
+2026-02-26T02:02:25.818Z [reload] config change detected; evaluating reload (meta.lastTouchedAt)
+2026-02-26T02:02:25.821Z [reload] config change applied (dynamic reads: meta.lastTouchedAt)
+2026-02-26T02:03:54.420Z [reload] config change detected; evaluating reload (meta.lastTouchedAt)
+2026-02-26T02:03:54.421Z [reload] config change applied (dynamic reads: meta.lastTouchedAt)
+2026-02-26T02:03:58.882Z [reload] config change detected; evaluating reload (meta.lastTouchedAt, agents.defaults.model.fallbacks)
+2026-02-26T02:03:58.883Z [reload] config change applied (dynamic reads: meta.lastTouchedAt, agents.defaults.model.fallbacks)
+2026-02-26T02:04:51.625Z [gateway] signal SIGTERM received
+2026-02-26T02:04:51.626Z [gateway] received SIGTERM; shutting down
+2026-02-26T02:04:51.628Z [gmail-watcher] gmail watcher stopped
+2026-02-26T02:04:51.777Z [ws] webchat disconnected code=1012 reason=service restart conn=b2685249-d6ef-4269-b476-5a22ea679f75
+2026-02-26T02:04:53.409Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/heydey/.openclaw/canvas)
+2026-02-26T02:04:53.438Z [heartbeat] started
+2026-02-26T02:04:53.439Z [health-monitor] started (interval: 300s, grace: 60s)
+2026-02-26T02:04:53.441Z [gateway] agent model: github-copilot/claude-sonnet-4.6
+2026-02-26T02:04:53.441Z [gateway] listening on ws://127.0.0.1:18789, ws://[::1]:18789 (PID 16298)
+2026-02-26T02:04:53.442Z [gateway] log file: /tmp/openclaw/openclaw-2026-02-26.log
+2026-02-26T02:04:53.445Z [browser/service] Browser control service ready (profiles=2)
+2026-02-26T02:04:53.585Z [hooks:loader] Registered hook: boot-md -> gateway:startup
+2026-02-26T02:04:53.586Z [hooks:loader] Registered hook: bootstrap-extra-files -> agent:bootstrap
+2026-02-26T02:04:53.587Z [hooks:loader] Registered hook: command-logger -> command
+2026-02-26T02:04:53.590Z [hooks:loader] Registered hook: session-memory -> command:new, command:reset
+2026-02-26T02:04:53.590Z [hooks] loaded 4 internal hook handlers
+2026-02-26T02:04:53.603Z [ws] webchat connected conn=509427f0-d292-446e-ba5d-a712c1db215e remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T02:04:54.019Z [ws] ⇄ res ✓ chat.history 412ms conn=509427f0…215e id=b92c8e95…ead2
+2026-02-26T11:20:13.824+09:00 [hooks/session-memory] Session context saved to ~/.openclaw/workspace/memory/2026-02-26-0220.md
+2026-02-26T02:20:21.264Z [ws] webchat disconnected code=1005 reason=n/a conn=509427f0-d292-446e-ba5d-a712c1db215e
+2026-02-26T02:20:21.280Z [ws] webchat connected conn=226ed264-395d-485d-a318-08cd080895d8 remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T02:21:05.846Z [ws] webchat disconnected code=1005 reason=n/a conn=226ed264-395d-485d-a318-08cd080895d8
+2026-02-26T02:21:05.863Z [ws] webchat connected conn=361770f7-0c1b-433b-8dd8-de720e07f8d6 remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T02:21:07.730Z [ws] webchat disconnected code=1005 reason=n/a conn=361770f7-0c1b-433b-8dd8-de720e07f8d6
+2026-02-26T02:21:07.747Z [ws] webchat connected conn=820e6d2b-68b5-4572-b9b1-35a337df3b99 remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T02:21:11.112Z [ws] ⇄ res ✓ config.get 182ms conn=820e6d2b…3b99 id=dd5928f2…e93e
+2026-02-26T02:21:33.804Z [gateway] update.run completed actor=openclaw-control-ui device=eee0e6da8ca385959882dd2d34b37bd02587ac2ca15f4266126c749fd136c2d5 ip=unknown-ip conn=820e6d2b-68b5-4572-b9b1-35a337df3b99 changedPaths=<n/a> restartReason=update.run status=error
+2026-02-26T02:21:33.805Z [ws] ⇄ res ✓ update.run 11977ms conn=820e6d2b…3b99 id=16355a1e…f209
+2026-02-26T02:27:34.518Z [reload] config change detected; evaluating reload (meta.lastTouchedAt, agents.defaults.model.primary)
+2026-02-26T02:27:34.523Z [reload] config change applied (dynamic reads: meta.lastTouchedAt, agents.defaults.model.primary)
+2026-02-26T02:27:58.531Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/heydey/.openclaw/canvas)
+2026-02-26T02:27:58.558Z [heartbeat] started
+2026-02-26T02:27:58.560Z [health-monitor] started (interval: 300s, grace: 60s)
+2026-02-26T02:27:58.561Z [gateway] agent model: google/gemini-3.5-pro
+2026-02-26T02:27:58.561Z [gateway] listening on ws://127.0.0.1:18789, ws://[::1]:18789 (PID 16753)
+2026-02-26T02:27:58.562Z [gateway] log file: /tmp/openclaw/openclaw-2026-02-26.log
+2026-02-26T02:27:58.567Z [browser/service] Browser control service ready (profiles=2)
+2026-02-26T02:27:58.701Z [hooks:loader] Registered hook: boot-md -> gateway:startup
+2026-02-26T02:27:58.704Z [hooks:loader] Registered hook: bootstrap-extra-files -> agent:bootstrap
+2026-02-26T02:27:58.704Z [hooks:loader] Registered hook: command-logger -> command
+2026-02-26T02:27:58.707Z [hooks:loader] Registered hook: session-memory -> command:new, command:reset
+2026-02-26T02:27:58.708Z [hooks] loaded 4 internal hook handlers
+2026-02-26T02:27:59.587Z [ws] webchat connected conn=a6637e47-79c1-47cf-8321-3a6d19fd3bb6 remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T02:27:59.954Z [ws] ⇄ res ✓ chat.history 356ms conn=a6637e47…3bb6 id=849b9e52…a057
+2026-02-26T02:28:32.962Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/heydey/.openclaw/canvas)
+2026-02-26T02:28:32.989Z [heartbeat] started
+2026-02-26T02:28:32.990Z [health-monitor] started (interval: 300s, grace: 60s)
+2026-02-26T02:28:32.991Z [gateway] agent model: google/gemini-3.5-pro
+2026-02-26T02:28:32.991Z [gateway] listening on ws://127.0.0.1:18789, ws://[::1]:18789 (PID 16851)
+2026-02-26T02:28:32.992Z [gateway] log file: /tmp/openclaw/openclaw-2026-02-26.log
+2026-02-26T02:28:32.997Z [browser/service] Browser control service ready (profiles=2)
+2026-02-26T02:28:33.128Z [hooks:loader] Registered hook: boot-md -> gateway:startup
+2026-02-26T02:28:33.131Z [hooks:loader] Registered hook: bootstrap-extra-files -> agent:bootstrap
+2026-02-26T02:28:33.131Z [hooks:loader] Registered hook: command-logger -> command
+2026-02-26T02:28:33.134Z [hooks:loader] Registered hook: session-memory -> command:new, command:reset
+2026-02-26T02:28:33.135Z [hooks] loaded 4 internal hook handlers
+2026-02-26T02:28:34.592Z [ws] webchat connected conn=cb2d8f20-70f6-4240-8197-16290dba2813 remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T02:28:35.002Z [ws] ⇄ res ✓ chat.history 402ms conn=cb2d8f20…2813 id=6a501118…a504
+2026-02-26T02:29:00.465Z [ws] webchat disconnected code=1001 reason=n/a conn=cb2d8f20-70f6-4240-8197-16290dba2813
+2026-02-26T02:29:00.720Z [ws] webchat connected conn=c0e7d83e-c86b-4819-a739-7cd6fb3e80b0 remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T11:29:03.377+09:00 [hooks/session-memory] Session context saved to ~/.openclaw/workspace/memory/2026-02-26-0229.md
+2026-02-26T02:29:39.692Z [ws] webchat disconnected code=1005 reason=n/a conn=c0e7d83e-c86b-4819-a739-7cd6fb3e80b0
+2026-02-26T02:29:39.708Z [ws] webchat connected conn=86471ca4-db74-4055-b86b-4385f8b3ced1 remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T02:29:40.610Z [ws] webchat disconnected code=1005 reason=n/a conn=86471ca4-db74-4055-b86b-4385f8b3ced1
+2026-02-26T02:29:40.621Z [ws] webchat connected conn=e6643608-9fe9-485f-afb4-69ffa83451dd remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T02:29:43.318Z [ws] ⇄ res ✓ config.get 258ms conn=e6643608…51dd id=2d6fd86d…ffe2
+2026-02-26T02:29:54.698Z [reload] config change detected; evaluating reload (meta.lastTouchedAt, agents.list)
+2026-02-26T02:29:54.700Z [reload] config change applied (dynamic reads: meta.lastTouchedAt, agents.list)
+2026-02-26T11:29:59.456+09:00 [hooks/session-memory] Session context saved to ~/.openclaw/workspace/memory/2026-02-26-0229.md
+2026-02-26T02:51:37.159Z [reload] config change detected; evaluating reload (meta.lastTouchedAt, agents.defaults.model.primary)
+2026-02-26T02:51:37.161Z [reload] config change applied (dynamic reads: meta.lastTouchedAt, agents.defaults.model.primary)
+2026-02-26T11:51:43.949+09:00 [hooks/session-memory] Session context saved to ~/.openclaw/workspace/memory/2026-02-26-0251.md
+2026-02-26T02:52:34.795Z [reload] config change detected; evaluating reload (meta.lastTouchedAt, agents.defaults.model.primary)
+2026-02-26T02:52:34.798Z [reload] config change applied (dynamic reads: meta.lastTouchedAt, agents.defaults.model.primary)
+2026-02-26T11:52:40.724+09:00 [hooks/session-memory] Session context saved to ~/.openclaw/workspace/memory/2026-02-26-0252.md
+2026-02-26T02:53:27.919Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/heydey/.openclaw/canvas)
+2026-02-26T02:53:27.952Z [heartbeat] started
+2026-02-26T02:53:27.954Z [health-monitor] started (interval: 300s, grace: 60s)
+2026-02-26T02:53:27.955Z [gateway] agent model: google/gemini-1.5-pro
+2026-02-26T02:53:27.955Z [gateway] listening on ws://127.0.0.1:18789, ws://[::1]:18789 (PID 17264)
+2026-02-26T02:53:27.956Z [gateway] log file: /tmp/openclaw/openclaw-2026-02-26.log
+2026-02-26T02:53:27.969Z [browser/service] Browser control service ready (profiles=2)
+2026-02-26T02:53:28.099Z [hooks:loader] Registered hook: boot-md -> gateway:startup
+2026-02-26T02:53:28.101Z [hooks:loader] Registered hook: bootstrap-extra-files -> agent:bootstrap
+2026-02-26T02:53:28.101Z [hooks:loader] Registered hook: command-logger -> command
+2026-02-26T02:53:28.104Z [hooks:loader] Registered hook: session-memory -> command:new, command:reset
+2026-02-26T02:53:28.105Z [hooks] loaded 4 internal hook handlers
+2026-02-26T02:53:29.573Z [ws] webchat connected conn=f7771926-4171-476d-84bd-eb05cf15d6af remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T02:53:29.915Z [ws] ⇄ res ✓ chat.history 331ms conn=f7771926…d6af id=91d740e3…340c
+2026-02-26T02:54:31.673Z [gateway] signal SIGTERM received
+2026-02-26T02:54:31.676Z [gateway] received SIGTERM; shutting down
+2026-02-26T02:54:31.686Z [gmail-watcher] gmail watcher stopped
+2026-02-26T02:54:31.901Z [ws] webchat disconnected code=1012 reason=service restart conn=f7771926-4171-476d-84bd-eb05cf15d6af
+2026-02-26T02:54:33.469Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/heydey/.openclaw/canvas)
+2026-02-26T02:54:33.496Z [heartbeat] started
+2026-02-26T02:54:33.498Z [health-monitor] started (interval: 300s, grace: 60s)
+2026-02-26T02:54:33.499Z [gateway] agent model: google/gemini-1.5-pro
+2026-02-26T02:54:33.499Z [gateway] listening on ws://127.0.0.1:18789, ws://[::1]:18789 (PID 17335)
+2026-02-26T02:54:33.500Z [gateway] log file: /tmp/openclaw/openclaw-2026-02-26.log
+2026-02-26T02:54:33.505Z [browser/service] Browser control service ready (profiles=2)
+2026-02-26T02:54:33.639Z [hooks:loader] Registered hook: boot-md -> gateway:startup
+2026-02-26T02:54:33.640Z [hooks:loader] Registered hook: bootstrap-extra-files -> agent:bootstrap
+2026-02-26T02:54:33.641Z [hooks:loader] Registered hook: command-logger -> command
+2026-02-26T02:54:33.644Z [hooks:loader] Registered hook: session-memory -> command:new, command:reset
+2026-02-26T02:54:33.645Z [hooks] loaded 4 internal hook handlers
+2026-02-26T02:54:33.664Z [ws] webchat connected conn=779f7af6-a6fc-457f-8db7-dd7f22b080dc remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T02:54:34.060Z [ws] ⇄ res ✓ chat.history 391ms conn=779f7af6…80dc id=0dc4e6f8…d05b
+2026-02-26T02:55:57.197Z [gateway] signal SIGTERM received
+2026-02-26T02:55:57.200Z [gateway] received SIGTERM; shutting down
+2026-02-26T02:55:57.210Z [gmail-watcher] gmail watcher stopped
+2026-02-26T02:55:57.384Z [ws] webchat disconnected code=1012 reason=service restart conn=779f7af6-a6fc-457f-8db7-dd7f22b080dc
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─╮
+│                       │
+│  - runtime            │
+│  - default_model      │
+│  - fallback_model     │
+│  - channel            │
+│  - heartbeat          │
+│                       │
+├───────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─╮
+│                       │
+│  - runtime            │
+│  - default_model      │
+│  - fallback_model     │
+│  - channel            │
+│  - heartbeat          │
+│                       │
+├───────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─╮
+│                       │
+│  - runtime            │
+│  - default_model      │
+│  - fallback_model     │
+│  - channel            │
+│  - heartbeat          │
+│                       │
+├───────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─╮
+│                       │
+│  - runtime            │
+│  - default_model      │
+│  - fallback_model     │
+│  - channel            │
+│  - heartbeat          │
+│                       │
+├───────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─╮
+│                       │
+│  - runtime            │
+│  - default_model      │
+│  - fallback_model     │
+│  - channel            │
+│  - heartbeat          │
+│                       │
+├───────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─╮
+│                       │
+│  - runtime            │
+│  - default_model      │
+│  - fallback_model     │
+│  - channel            │
+│  - heartbeat          │
+│                       │
+├───────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─╮
+│                       │
+│  - runtime            │
+│  - default_model      │
+│  - fallback_model     │
+│  - channel            │
+│  - heartbeat          │
+│                       │
+├───────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─╮
+│                       │
+│  - runtime            │
+│  - default_model      │
+│  - fallback_model     │
+│  - channel            │
+│  - heartbeat          │
+│                       │
+├───────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─╮
+│                       │
+│  - runtime            │
+│  - default_model      │
+│  - fallback_model     │
+│  - channel            │
+│  - heartbeat          │
+│                       │
+├───────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─╮
+│                       │
+│  - runtime            │
+│  - default_model      │
+│  - fallback_model     │
+│  - channel            │
+│  - heartbeat          │
+│                       │
+├───────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─╮
+│                       │
+│  - runtime            │
+│  - default_model      │
+│  - fallback_model     │
+│  - channel            │
+│  - heartbeat          │
+│                       │
+├───────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─╮
+│                       │
+│  - runtime            │
+│  - default_model      │
+│  - fallback_model     │
+│  - channel            │
+│  - heartbeat          │
+│                       │
+├───────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─╮
+│                       │
+│  - runtime            │
+│  - default_model      │
+│  - fallback_model     │
+│  - channel            │
+│  - heartbeat          │
+│                       │
+├───────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─╮
+│                       │
+│  - runtime            │
+│  - default_model      │
+│  - fallback_model     │
+│  - channel            │
+│  - heartbeat          │
+│                       │
+├───────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─╮
+│                       │
+│  - runtime            │
+│  - default_model      │
+│  - fallback_model     │
+│  - channel            │
+│  - heartbeat          │
+│                       │
+├───────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+2026-02-26T04:41:01.846Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/heydey/.openclaw/canvas)
+2026-02-26T04:41:01.873Z [heartbeat] started
+2026-02-26T04:41:01.874Z [health-monitor] started (interval: 300s, grace: 60s)
+2026-02-26T04:41:01.875Z [gateway] agent model: google/gemini-3-pro-preview
+2026-02-26T04:41:01.876Z [gateway] listening on ws://127.0.0.1:18789, ws://[::1]:18789 (PID 7602)
+2026-02-26T04:41:01.876Z [gateway] log file: /tmp/openclaw/openclaw-2026-02-26.log
+2026-02-26T04:41:01.888Z [browser/service] Browser control service ready (profiles=2)
+2026-02-26T04:41:02.027Z [hooks:loader] Registered hook: boot-md -> gateway:startup
+2026-02-26T04:41:02.028Z [hooks:loader] Registered hook: bootstrap-extra-files -> agent:bootstrap
+2026-02-26T04:41:02.028Z [hooks:loader] Registered hook: command-logger -> command
+2026-02-26T04:41:02.031Z [hooks:loader] Registered hook: session-memory -> command:new, command:reset
+2026-02-26T04:41:02.032Z [hooks] loaded 4 internal hook handlers
+2026-02-26T04:41:12.637Z [ws] webchat connected conn=554edc50-7af7-4ef2-81f5-e5e6daa02ef6 remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T04:41:13.222Z [ws] ⇄ res ✓ chat.history 578ms conn=554edc50…2ef6 id=93de1f7b…ae56
+2026-02-26T04:42:15.207Z [ws] ⇄ res ✓ config.get 196ms conn=554edc50…2ef6 id=62036041…e5e6
+2026-02-26T04:50:53.644Z [gateway] signal SIGTERM received
+2026-02-26T04:50:53.644Z [gateway] received SIGTERM; shutting down
+2026-02-26T04:50:53.648Z [gmail-watcher] gmail watcher stopped
+2026-02-26T04:50:53.753Z [ws] webchat disconnected code=1012 reason=service restart conn=554edc50-7af7-4ef2-81f5-e5e6daa02ef6
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ──────────────╮
+│                                    │
+│  - agents.defaults.model.fallback  │
+│                                    │
+├────────────────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ──────────────╮
+│                                    │
+│  - agents.defaults.model.fallback  │
+│                                    │
+├────────────────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ──────────────╮
+│                                    │
+│  - agents.defaults.model.fallback  │
+│                                    │
+├────────────────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ──────────────╮
+│                                    │
+│  - agents.defaults.model.fallback  │
+│                                    │
+├────────────────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ──────────────╮
+│                                    │
+│  - agents.defaults.model.fallback  │
+│                                    │
+├────────────────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ──────────────╮
+│                                    │
+│  - agents.defaults.model.fallback  │
+│                                    │
+├────────────────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ──────────────╮
+│                                    │
+│  - agents.defaults.model.fallback  │
+│                                    │
+├────────────────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ──────────────╮
+│                                    │
+│  - agents.defaults.model.fallback  │
+│                                    │
+├────────────────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ──────────────╮
+│                                    │
+│  - agents.defaults.model.fallback  │
+│                                    │
+├────────────────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ──────────────╮
+│                                    │
+│  - agents.defaults.model.fallback  │
+│                                    │
+├────────────────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ──────────────╮
+│                                    │
+│  - agents.defaults.model.fallback  │
+│                                    │
+├────────────────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ──────────────╮
+│                                    │
+│  - agents.defaults.model.fallback  │
+│                                    │
+├────────────────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ──────────────╮
+│                                    │
+│  - agents.defaults.model.fallback  │
+│                                    │
+├────────────────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ──────────────╮
+│                                    │
+│  - agents.defaults.model.fallback  │
+│                                    │
+├────────────────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ──────────────╮
+│                                    │
+│  - agents.defaults.model.fallback  │
+│                                    │
+├────────────────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ──────────────╮
+│                                    │
+│  - agents.defaults.model.fallback  │
+│                                    │
+├────────────────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ──────────────╮
+│                                    │
+│  - agents.defaults.model.fallback  │
+│                                    │
+├────────────────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ──────────────╮
+│                                    │
+│  - agents.defaults.model.fallback  │
+│                                    │
+├────────────────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ──────────────╮
+│                                    │
+│  - agents.defaults.model.fallback  │
+│                                    │
+├────────────────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ──────────────╮
+│                                    │
+│  - agents.defaults.model.fallback  │
+│                                    │
+├────────────────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ──────────────╮
+│                                    │
+│  - agents.defaults.model.fallback  │
+│                                    │
+├────────────────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ──────────────╮
+│                                    │
+│  - agents.defaults.model.fallback  │
+│                                    │
+├────────────────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ──────────────╮
+│                                    │
+│  - agents.defaults.model.fallback  │
+│                                    │
+├────────────────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ──────────────╮
+│                                    │
+│  - agents.defaults.model.fallback  │
+│                                    │
+├────────────────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ──────────────╮
+│                                    │
+│  - agents.defaults.model.fallback  │
+│                                    │
+├────────────────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ──────────────╮
+│                                    │
+│  - agents.defaults.model.fallback  │
+│                                    │
+├────────────────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ──────────────╮
+│                                    │
+│  - agents.defaults.model.fallback  │
+│                                    │
+├────────────────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ──────────────╮
+│                                    │
+│  - agents.defaults.model.fallback  │
+│                                    │
+├────────────────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ──────────────╮
+│                                    │
+│  - agents.defaults.model.fallback  │
+│                                    │
+├────────────────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ──────────────╮
+│                                    │
+│  - agents.defaults.model.fallback  │
+│                                    │
+├────────────────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ──────────────╮
+│                                    │
+│  - agents.defaults.model.fallback  │
+│                                    │
+├────────────────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ──────────────╮
+│                                    │
+│  - agents.defaults.model.fallback  │
+│                                    │
+├────────────────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ──────────────╮
+│                                    │
+│  - agents.defaults.model.fallback  │
+│                                    │
+├────────────────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ──────────────╮
+│                                    │
+│  - agents.defaults.model.fallback  │
+│                                    │
+├────────────────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ──────────────╮
+│                                    │
+│  - agents.defaults.model.fallback  │
+│                                    │
+├────────────────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ──────────────╮
+│                                    │
+│  - agents.defaults.model.fallback  │
+│                                    │
+├────────────────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ──────────────╮
+│                                    │
+│  - agents.defaults.model.fallback  │
+│                                    │
+├────────────────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ──────────────╮
+│                                    │
+│  - agents.defaults.model.fallback  │
+│                                    │
+├────────────────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ──────────────╮
+│                                    │
+│  - agents.defaults.model.fallback  │
+│                                    │
+├────────────────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ──────────────╮
+│                                    │
+│  - agents.defaults.model.fallback  │
+│                                    │
+├────────────────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ──────────────╮
+│                                    │
+│  - agents.defaults.model.fallback  │
+│                                    │
+├────────────────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ──────────────╮
+│                                    │
+│  - agents.defaults.model.fallback  │
+│                                    │
+├────────────────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ──────────────╮
+│                                    │
+│  - agents.defaults.model.fallback  │
+│                                    │
+├────────────────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ──────────────╮
+│                                    │
+│  - agents.defaults.model.fallback  │
+│                                    │
+├────────────────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ──────────────╮
+│                                    │
+│  - agents.defaults.model.fallback  │
+│                                    │
+├────────────────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ──────────────╮
+│                                    │
+│  - agents.defaults.model.fallback  │
+│                                    │
+├────────────────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ──────────────╮
+│                                    │
+│  - agents.defaults.model.fallback  │
+│                                    │
+├────────────────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ──────────────╮
+│                                    │
+│  - agents.defaults.model.fallback  │
+│                                    │
+├────────────────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ──────────────╮
+│                                    │
+│  - agents.defaults.model.fallback  │
+│                                    │
+├────────────────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ──────────────╮
+│                                    │
+│  - agents.defaults.model.fallback  │
+│                                    │
+├────────────────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ──────────────╮
+│                                    │
+│  - agents.defaults.model.fallback  │
+│                                    │
+├────────────────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ──────────────╮
+│                                    │
+│  - agents.defaults.model.fallback  │
+│                                    │
+├────────────────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ──────────────╮
+│                                    │
+│  - agents.defaults.model.fallback  │
+│                                    │
+├────────────────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ──────────────╮
+│                                    │
+│  - agents.defaults.model.fallback  │
+│                                    │
+├────────────────────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+2026-02-26T11:08:40.605Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/heydey/.openclaw/canvas)
+2026-02-26T11:08:40.635Z [heartbeat] started
+2026-02-26T11:08:40.636Z [health-monitor] started (interval: 300s, grace: 60s)
+2026-02-26T11:08:40.637Z [gateway] agent model: google/gemini-2.0-flash-thinking-exp
+2026-02-26T11:08:40.638Z [gateway] listening on ws://127.0.0.1:18789, ws://[::1]:18789 (PID 12516)
+2026-02-26T11:08:40.638Z [gateway] log file: /tmp/openclaw/openclaw-2026-02-26.log
+2026-02-26T11:08:40.645Z [browser/service] Browser control service ready (profiles=2)
+2026-02-26T11:08:51.012Z [ws] webchat connected conn=2f50d17e-fac4-4a35-b0b6-79cc5ec290b6 remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T11:08:51.500Z [ws] ⇄ res ✓ chat.history 480ms conn=2f50d17e…90b6 id=10528350…e54d
+2026-02-26T11:13:43.985Z [agents/tool-images] Image resized to fit limits: 2420x1752px 501.3KB -> 82.2KB (-83.6%)
+2026-02-26T11:16:03.763Z [agents/tool-images] Image resized to fit limits: 2420x1752px 501.3KB -> 82.2KB (-83.6%)
+2026-02-26T11:18:00.384Z [agents/tool-images] Image resized to fit limits: 2420x1752px 501.3KB -> 82.2KB (-83.6%)
+2026-02-26T11:18:23.523Z [gateway] signal SIGTERM received
+2026-02-26T11:18:23.525Z [gateway] received SIGTERM; shutting down
+2026-02-26T11:18:23.535Z [gmail-watcher] gmail watcher stopped
+2026-02-26T11:18:23.544Z [ws] webchat disconnected code=1012 reason=service restart conn=2f50d17e-fac4-4a35-b0b6-79cc5ec290b6
+2026-02-26T11:18:28.220Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/heydey/.openclaw/canvas)
+2026-02-26T11:18:28.241Z [heartbeat] started
+2026-02-26T11:18:28.241Z [health-monitor] started (interval: 300s, grace: 60s)
+2026-02-26T11:18:28.243Z [gateway] agent model: google/gemini-2.0-flash-thinking-exp
+2026-02-26T11:18:28.243Z [gateway] listening on ws://127.0.0.1:18789, ws://[::1]:18789 (PID 25040)
+2026-02-26T11:18:28.244Z [gateway] log file: /tmp/openclaw/openclaw-2026-02-26.log
+2026-02-26T11:18:28.256Z [browser/server] Browser control listening on http://127.0.0.1:18791/ (auth=token)
+2026-02-26T11:18:32.007Z [ws] webchat connected conn=847b1f0e-f31b-48eb-b2cc-ea192455b4d2 remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T11:18:32.509Z [ws] ⇄ res ✓ chat.history 496ms conn=847b1f0e…b4d2 id=0a5a8cd4…aa7e
+2026-02-26T11:18:42.858Z [ws] webchat disconnected code=1001 reason=n/a conn=847b1f0e-f31b-48eb-b2cc-ea192455b4d2
+2026-02-26T11:19:13.579Z [ws] webchat connected conn=68e6e480-6ce9-4fac-b59a-6d9d8e1514ba remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T11:20:30.503Z [agents/tool-images] Image resized to fit limits: 2420x1752px 501.3KB -> 82.2KB (-83.6%)
+2026-02-26T11:22:48.776Z [ws] webchat disconnected code=1001 reason=n/a conn=68e6e480-6ce9-4fac-b59a-6d9d8e1514ba
+2026-02-26T11:22:49.015Z [ws] webchat connected conn=5878de44-64c7-44a1-a318-567480ea84b9 remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T11:23:38.515Z [agents/tool-images] Image resized to fit limits: 2420x1752px 501.3KB -> 82.2KB (-83.6%)
+2026-02-26T11:23:38.606Z [agents/tool-images] Image resized to fit limits: 2420x1752px 452.6KB -> 73.8KB (-83.7%)
+2026-02-26T11:23:55.568Z [gateway] signal SIGTERM received
+2026-02-26T11:23:55.570Z [gateway] received SIGTERM; shutting down
+2026-02-26T11:23:55.581Z [gmail-watcher] gmail watcher stopped
+2026-02-26T11:23:55.588Z [ws] webchat disconnected code=1012 reason=service restart conn=5878de44-64c7-44a1-a318-567480ea84b9
+2026-02-26T11:24:25.494Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/heydey/.openclaw/canvas)
+2026-02-26T11:24:25.511Z [heartbeat] started
+2026-02-26T11:24:25.512Z [health-monitor] started (interval: 300s, grace: 60s)
+2026-02-26T11:24:25.513Z [gateway] agent model: google/gemini-2.0-flash-thinking-exp
+2026-02-26T11:24:25.514Z [gateway] listening on ws://127.0.0.1:18789, ws://[::1]:18789 (PID 25431)
+2026-02-26T11:24:25.514Z [gateway] log file: /tmp/openclaw/openclaw-2026-02-26.log
+2026-02-26T11:24:25.521Z [browser/server] Browser control listening on http://127.0.0.1:18791/ (auth=token)
+2026-02-26T11:24:43.047Z [ws] webchat connected conn=6264b47f-c93c-4a50-9660-e4aa56668b8b remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T11:24:43.515Z [ws] ⇄ res ✓ chat.history 461ms conn=6264b47f…8b8b id=ef9d0756…b734
+2026-02-26T11:25:01.347Z [ws] webchat disconnected code=1001 reason=n/a conn=6264b47f-c93c-4a50-9660-e4aa56668b8b
+2026-02-26T11:25:27.260Z [ws] webchat connected conn=e207be5f-8411-48b7-9abb-6eca86022a00 remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T11:26:38.037Z [agents/tool-images] Image resized to fit limits: 2420x1752px 501.3KB -> 82.2KB (-83.6%)
+2026-02-26T11:26:38.128Z [agents/tool-images] Image resized to fit limits: 2420x1752px 452.6KB -> 73.8KB (-83.7%)
+2026-02-26T11:28:07.820Z [agents/tool-images] Image resized to fit limits: 2420x1752px 501.3KB -> 82.2KB (-83.6%)
+2026-02-26T11:28:07.910Z [agents/tool-images] Image resized to fit limits: 2420x1752px 452.6KB -> 73.8KB (-83.7%)
+2026-02-26T11:29:16.829Z [agents/tool-images] Image resized to fit limits: 2420x1752px 501.3KB -> 82.2KB (-83.6%)
+2026-02-26T11:29:16.920Z [agents/tool-images] Image resized to fit limits: 2420x1752px 452.6KB -> 73.8KB (-83.7%)
+2026-02-26T11:30:11.628Z [gateway] signal SIGTERM received
+2026-02-26T11:30:11.631Z [gateway] received SIGTERM; shutting down
+2026-02-26T11:30:11.640Z [gmail-watcher] gmail watcher stopped
+2026-02-26T11:30:11.648Z [ws] webchat disconnected code=1012 reason=service restart conn=e207be5f-8411-48b7-9abb-6eca86022a00
+2026-02-26T11:30:52.196Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/heydey/.openclaw/canvas)
+2026-02-26T11:30:52.213Z [heartbeat] started
+2026-02-26T11:30:52.215Z [health-monitor] started (interval: 300s, grace: 60s)
+2026-02-26T11:30:52.216Z [gateway] agent model: google/gemini-2.0-flash-thinking-exp
+2026-02-26T11:30:52.216Z [gateway] listening on ws://127.0.0.1:18789, ws://[::1]:18789 (PID 25775)
+2026-02-26T11:30:52.217Z [gateway] log file: /tmp/openclaw/openclaw-2026-02-26.log
+2026-02-26T11:30:52.224Z [browser/server] Browser control listening on http://127.0.0.1:18791/ (auth=token)
+2026-02-26T11:30:53.157Z [ws] webchat connected conn=b01960cc-f22f-4398-a207-9e8f804306ad remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T11:30:53.684Z [ws] ⇄ res ✓ chat.history 516ms conn=b01960cc…06ad id=36c542ad…89bc
+2026-02-26T11:30:58.531Z [ws] webchat disconnected code=1001 reason=n/a conn=b01960cc-f22f-4398-a207-9e8f804306ad
+2026-02-26T11:30:58.776Z [ws] webchat connected conn=f5dfefa7-a710-4308-b585-88ebeea71b34 remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T11:31:21.079Z [ws] webchat disconnected code=1001 reason=n/a conn=f5dfefa7-a710-4308-b585-88ebeea71b34
+2026-02-26T11:31:37.563Z [gateway] signal SIGTERM received
+2026-02-26T11:31:37.577Z [gateway] received SIGTERM; shutting down
+2026-02-26T11:31:37.640Z [gmail-watcher] gmail watcher stopped
+2026-02-26T11:31:37.643Z [gateway] signal SIGTERM received
+2026-02-26T11:31:37.644Z [gateway] received SIGTERM during shutdown; ignoring
+2026-02-26T11:34:17.837Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/heydey/.openclaw/canvas)
+2026-02-26T11:34:17.872Z [heartbeat] started
+2026-02-26T11:34:17.873Z [health-monitor] started (interval: 300s, grace: 60s)
+2026-02-26T11:34:17.874Z [gateway] agent model: google/gemini-2.0-flash-thinking-exp
+2026-02-26T11:34:17.875Z [gateway] listening on ws://127.0.0.1:18789, ws://[::1]:18789 (PID 878)
+2026-02-26T11:34:17.876Z [gateway] log file: /tmp/openclaw/openclaw-2026-02-26.log
+2026-02-26T11:34:17.888Z [browser/server] Browser control listening on http://127.0.0.1:18791/ (auth=token)
+2026-02-26T11:34:19.069Z [ws] webchat connected conn=8aa2edb8-5368-4371-a2f9-3392712ea071 remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T11:34:19.605Z [ws] ⇄ res ✓ chat.history 503ms conn=8aa2edb8…a071 id=ae5dc97f…abe4
+2026-02-26T11:34:33.591Z [ws] webchat disconnected code=1001 reason=n/a conn=8aa2edb8-5368-4371-a2f9-3392712ea071
+2026-02-26T11:34:33.718Z [ws] webchat connected conn=f51247b5-e9a7-497e-b5b1-fe16b75e655d remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T11:36:33.859Z [agents/tool-images] Image resized to fit limits: 2420x1752px 501.3KB -> 82.2KB (-83.6%)
+2026-02-26T11:36:33.950Z [agents/tool-images] Image resized to fit limits: 2420x1752px 452.6KB -> 73.8KB (-83.7%)
+2026-02-26T11:41:28.799Z [agents/tool-images] Image resized to fit limits: 2420x1752px 501.3KB -> 82.2KB (-83.6%)
+2026-02-26T11:41:28.890Z [agents/tool-images] Image resized to fit limits: 2420x1752px 452.6KB -> 73.8KB (-83.7%)
+2026-02-26T11:41:28.986Z [agents/tool-images] Image resized to fit limits: 2454x1752px 568.2KB -> 94.3KB (-83.4%)
+2026-02-26T11:45:32.010Z [agents/tool-images] Image resized to fit limits: 2420x1752px 501.3KB -> 82.2KB (-83.6%)
+2026-02-26T11:45:32.102Z [agents/tool-images] Image resized to fit limits: 2420x1752px 452.6KB -> 73.8KB (-83.7%)
+2026-02-26T11:45:32.201Z [agents/tool-images] Image resized to fit limits: 2454x1752px 568.2KB -> 94.3KB (-83.4%)
+2026-02-26T11:46:27.710Z [agents/tool-images] Image resized to fit limits: 2420x1752px 501.3KB -> 82.2KB (-83.6%)
+2026-02-26T11:46:27.800Z [agents/tool-images] Image resized to fit limits: 2420x1752px 452.6KB -> 73.8KB (-83.7%)
+2026-02-26T11:46:27.896Z [agents/tool-images] Image resized to fit limits: 2454x1752px 568.2KB -> 94.3KB (-83.4%)
+2026-02-26T11:46:27.985Z [agents/tool-images] Image resized to fit limits: 2454x1752px 680.5KB -> 58.4KB (-91.4%)
+2026-02-26T11:47:26.167Z [agents/tool-images] Image resized to fit limits: 2420x1752px 501.3KB -> 82.2KB (-83.6%)
+2026-02-26T11:47:26.258Z [agents/tool-images] Image resized to fit limits: 2420x1752px 452.6KB -> 73.8KB (-83.7%)
+2026-02-26T11:47:26.354Z [agents/tool-images] Image resized to fit limits: 2454x1752px 568.2KB -> 94.3KB (-83.4%)
+2026-02-26T11:47:26.443Z [agents/tool-images] Image resized to fit limits: 2454x1752px 680.5KB -> 58.4KB (-91.4%)
+2026-02-26T11:48:17.365Z [agents/tool-images] Image resized to fit limits: 2420x1752px 501.3KB -> 82.2KB (-83.6%)
+2026-02-26T11:48:17.456Z [agents/tool-images] Image resized to fit limits: 2420x1752px 452.6KB -> 73.8KB (-83.7%)
+2026-02-26T11:48:17.552Z [agents/tool-images] Image resized to fit limits: 2454x1752px 568.2KB -> 94.3KB (-83.4%)
+2026-02-26T11:48:17.659Z [agents/tool-images] Image resized to fit limits: 2454x1752px 680.5KB -> 58.4KB (-91.4%)
+2026-02-26T11:48:28.478Z [browser/service] Browser control service ready (profiles=2)
+2026-02-26T11:50:21.787Z [agents/tool-images] Image resized to fit limits: 2420x1752px 501.3KB -> 82.2KB (-83.6%)
+2026-02-26T11:50:21.877Z [agents/tool-images] Image resized to fit limits: 2420x1752px 452.6KB -> 73.8KB (-83.7%)
+2026-02-26T11:50:21.973Z [agents/tool-images] Image resized to fit limits: 2454x1752px 568.2KB -> 94.3KB (-83.4%)
+2026-02-26T11:50:22.062Z [agents/tool-images] Image resized to fit limits: 2454x1752px 680.5KB -> 58.4KB (-91.4%)
+2026-02-26T11:50:40.265Z [agents/tool-images] Image resized to fit limits: 2420x1752px 501.3KB -> 82.2KB (-83.6%)
+2026-02-26T11:50:40.356Z [agents/tool-images] Image resized to fit limits: 2420x1752px 452.6KB -> 73.8KB (-83.7%)
+2026-02-26T11:50:40.453Z [agents/tool-images] Image resized to fit limits: 2454x1752px 568.2KB -> 94.3KB (-83.4%)
+2026-02-26T11:50:40.542Z [agents/tool-images] Image resized to fit limits: 2454x1752px 680.5KB -> 58.4KB (-91.4%)
+2026-02-26T11:51:03.019Z [agents/tool-images] Image resized to fit limits: 2420x1752px 501.3KB -> 82.2KB (-83.6%)
+2026-02-26T11:51:03.112Z [agents/tool-images] Image resized to fit limits: 2420x1752px 452.6KB -> 73.8KB (-83.7%)
+2026-02-26T11:51:03.209Z [agents/tool-images] Image resized to fit limits: 2454x1752px 568.2KB -> 94.3KB (-83.4%)
+2026-02-26T11:51:03.298Z [agents/tool-images] Image resized to fit limits: 2454x1752px 680.5KB -> 58.4KB (-91.4%)
+2026-02-26T11:51:11.125Z [gateway] device pairing auto-approved device=db45858097374c033a86c39878ea768fd0eed90961e0df619388ecfa4e4f3707 role=operator
+2026-02-26T11:52:20.269Z [agents/tool-images] Image resized to fit limits: 2420x1752px 501.3KB -> 82.2KB (-83.6%)
+2026-02-26T11:52:20.360Z [agents/tool-images] Image resized to fit limits: 2420x1752px 452.6KB -> 73.8KB (-83.7%)
+2026-02-26T11:52:20.458Z [agents/tool-images] Image resized to fit limits: 2454x1752px 568.2KB -> 94.3KB (-83.4%)
+2026-02-26T11:52:20.549Z [agents/tool-images] Image resized to fit limits: 2454x1752px 680.5KB -> 58.4KB (-91.4%)
+2026-02-26T11:53:41.371Z [agents/tool-images] Image resized to fit limits: 2420x1752px 501.3KB -> 82.2KB (-83.6%)
+2026-02-26T11:53:41.461Z [agents/tool-images] Image resized to fit limits: 2420x1752px 452.6KB -> 73.8KB (-83.7%)
+2026-02-26T11:53:41.559Z [agents/tool-images] Image resized to fit limits: 2454x1752px 568.2KB -> 94.3KB (-83.4%)
+2026-02-26T11:53:41.648Z [agents/tool-images] Image resized to fit limits: 2454x1752px 680.5KB -> 58.4KB (-91.4%)
+2026-02-26T12:04:18.627Z [agents/tool-images] Image resized to fit limits: 2420x1752px 501.3KB -> 82.2KB (-83.6%)
+2026-02-26T12:04:18.718Z [agents/tool-images] Image resized to fit limits: 2420x1752px 452.6KB -> 73.8KB (-83.7%)
+2026-02-26T12:04:18.813Z [agents/tool-images] Image resized to fit limits: 2454x1752px 568.2KB -> 94.3KB (-83.4%)
+2026-02-26T12:04:18.902Z [agents/tool-images] Image resized to fit limits: 2454x1752px 680.5KB -> 58.4KB (-91.4%)
+2026-02-26T12:07:36.042Z [ws] webchat disconnected code=1005 reason=n/a conn=f51247b5-e9a7-497e-b5b1-fe16b75e655d
+2026-02-26T12:07:36.082Z [ws] webchat connected conn=961111cb-919d-4960-9f18-76c278e5e099 remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T12:08:52.257Z [ws] webchat disconnected code=1005 reason=n/a conn=961111cb-919d-4960-9f18-76c278e5e099
+2026-02-26T12:08:52.273Z [ws] webchat connected conn=93303ac3-918f-40aa-b3e4-df251fc3d992 remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T12:08:54.623Z [ws] webchat disconnected code=1005 reason=n/a conn=93303ac3-918f-40aa-b3e4-df251fc3d992
+2026-02-26T12:08:54.639Z [ws] webchat connected conn=f792c242-0fe6-4302-967d-f3f971a0b993 remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T12:09:48.669Z [agents/tool-images] Image resized to fit limits: 2420x1752px 501.3KB -> 82.2KB (-83.6%)
+2026-02-26T12:09:48.761Z [agents/tool-images] Image resized to fit limits: 2420x1752px 452.6KB -> 73.8KB (-83.7%)
+2026-02-26T12:09:48.857Z [agents/tool-images] Image resized to fit limits: 2454x1752px 568.2KB -> 94.3KB (-83.4%)
+2026-02-26T12:09:48.946Z [agents/tool-images] Image resized to fit limits: 2454x1752px 680.5KB -> 58.4KB (-91.4%)
+2026-02-26T12:10:41.507Z [agents/tool-images] Image resized to fit limits: 2420x1752px 501.3KB -> 82.2KB (-83.6%)
+2026-02-26T12:10:41.599Z [agents/tool-images] Image resized to fit limits: 2420x1752px 452.6KB -> 73.8KB (-83.7%)
+2026-02-26T12:10:41.697Z [agents/tool-images] Image resized to fit limits: 2454x1752px 568.2KB -> 94.3KB (-83.4%)
+2026-02-26T12:10:41.786Z [agents/tool-images] Image resized to fit limits: 2454x1752px 680.5KB -> 58.4KB (-91.4%)
+2026-02-26T12:11:28.361Z [ws] webchat disconnected code=1001 reason=n/a conn=f792c242-0fe6-4302-967d-f3f971a0b993
+2026-02-26T12:11:28.609Z [ws] webchat connected conn=357131e7-ce81-4844-994f-3bafa0874f3d remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T12:20:42.100Z [ws] webchat disconnected code=1005 reason=n/a conn=357131e7-ce81-4844-994f-3bafa0874f3d
+2026-02-26T12:20:42.116Z [ws] webchat connected conn=d8f1610d-90e5-4f16-9b7c-693240360827 remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T12:22:38.514Z [agents/tool-images] Image resized to fit limits: 2420x1752px 501.3KB -> 82.2KB (-83.6%)
+2026-02-26T12:22:38.604Z [agents/tool-images] Image resized to fit limits: 2420x1752px 452.6KB -> 73.8KB (-83.7%)
+2026-02-26T12:22:38.700Z [agents/tool-images] Image resized to fit limits: 2454x1752px 568.2KB -> 94.3KB (-83.4%)
+2026-02-26T12:22:38.788Z [agents/tool-images] Image resized to fit limits: 2454x1752px 680.5KB -> 58.4KB (-91.4%)
+2026-02-26T12:23:30.325Z [agents/tool-images] Image resized to fit limits: 2420x1752px 501.3KB -> 82.2KB (-83.6%)
+2026-02-26T12:23:30.415Z [agents/tool-images] Image resized to fit limits: 2420x1752px 452.6KB -> 73.8KB (-83.7%)
+2026-02-26T12:23:30.511Z [agents/tool-images] Image resized to fit limits: 2454x1752px 568.2KB -> 94.3KB (-83.4%)
+2026-02-26T12:23:30.600Z [agents/tool-images] Image resized to fit limits: 2454x1752px 680.5KB -> 58.4KB (-91.4%)
+2026-02-26T12:23:51.172Z [gateway] signal SIGTERM received
+2026-02-26T12:23:51.174Z [gateway] received SIGTERM; shutting down
+2026-02-26T12:23:51.181Z [gmail-watcher] gmail watcher stopped
+2026-02-26T12:23:51.190Z [ws] webchat disconnected code=1012 reason=service restart conn=d8f1610d-90e5-4f16-9b7c-693240360827
+2026-02-26T12:23:52.870Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/heydey/.openclaw/canvas)
+2026-02-26T12:23:52.904Z [heartbeat] started
+2026-02-26T12:23:52.906Z [health-monitor] started (interval: 300s, grace: 60s)
+2026-02-26T12:23:52.907Z [gateway] agent model: google/gemini-2.0-flash-thinking-exp
+2026-02-26T12:23:52.907Z [gateway] listening on ws://127.0.0.1:18789, ws://[::1]:18789 (PID 2188)
+2026-02-26T12:23:52.908Z [gateway] log file: /tmp/openclaw/openclaw-2026-02-26.log
+2026-02-26T12:23:52.916Z [browser/server] Browser control listening on http://127.0.0.1:18791/ (auth=token)
+2026-02-26T12:23:53.374Z [ws] webchat connected conn=5020aa02-81eb-4629-95c8-2e317ed37ef2 remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T12:23:53.841Z [ws] ⇄ res ✓ chat.history 457ms conn=5020aa02…7ef2 id=acd8a1d1…85b1
+2026-02-26T12:24:29.682Z [ws] webchat connected conn=c4719981-945f-485d-819f-d49c47463261 remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T12:24:45.926Z [ws] webchat disconnected code=1001 reason=n/a conn=5020aa02-81eb-4629-95c8-2e317ed37ef2
+2026-02-26T12:25:18.285Z [agents/tool-images] Image resized to fit limits: 2420x1752px 501.3KB -> 82.2KB (-83.6%)
+2026-02-26T12:25:18.375Z [agents/tool-images] Image resized to fit limits: 2420x1752px 452.6KB -> 73.8KB (-83.7%)
+2026-02-26T12:25:18.474Z [agents/tool-images] Image resized to fit limits: 2454x1752px 568.2KB -> 94.3KB (-83.4%)
+2026-02-26T12:25:18.562Z [agents/tool-images] Image resized to fit limits: 2454x1752px 680.5KB -> 58.4KB (-91.4%)
+2026-02-26T12:28:24.911Z [gateway] signal SIGTERM received
+2026-02-26T12:28:24.914Z [gateway] received SIGTERM; shutting down
+2026-02-26T12:28:24.923Z [gmail-watcher] gmail watcher stopped
+2026-02-26T12:28:24.935Z [ws] webchat disconnected code=1012 reason=service restart conn=c4719981-945f-485d-819f-d49c47463261
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─╮
+│                       │
+│  - gateway.relay      │
+│                       │
+├───────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─╮
+│                       │
+│  - gateway.relay      │
+│                       │
+├───────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─╮
+│                       │
+│  - gateway.relay      │
+│                       │
+├───────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─╮
+│                       │
+│  - gateway.relay      │
+│                       │
+├───────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─╮
+│                       │
+│  - gateway.relay      │
+│                       │
+├───────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─╮
+│                       │
+│  - gateway.relay      │
+│                       │
+├───────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─╮
+│                       │
+│  - gateway.relay      │
+│                       │
+├───────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─╮
+│                       │
+│  - gateway.relay      │
+│                       │
+├───────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─╮
+│                       │
+│  - gateway.relay      │
+│                       │
+├───────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─╮
+│                       │
+│  - gateway.relay      │
+│                       │
+├───────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─╮
+│                       │
+│  - gateway.relay      │
+│                       │
+├───────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─╮
+│                       │
+│  - gateway.relay      │
+│                       │
+├───────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─╮
+│                       │
+│  - gateway.relay      │
+│                       │
+├───────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─╮
+│                       │
+│  - gateway.relay      │
+│                       │
+├───────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─╮
+│                       │
+│  - gateway.relay      │
+│                       │
+├───────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─╮
+│                       │
+│  - gateway.relay      │
+│                       │
+├───────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─╮
+│                       │
+│  - gateway.relay      │
+│                       │
+├───────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─╮
+│                       │
+│  - gateway.relay      │
+│                       │
+├───────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+2026-02-26T12:32:41.798Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/heydey/.openclaw/canvas)
+2026-02-26T12:32:41.821Z [heartbeat] started
+2026-02-26T12:32:41.823Z [health-monitor] started (interval: 300s, grace: 60s)
+2026-02-26T12:32:41.824Z [gateway] agent model: google/gemini-2.0-flash-thinking-exp
+2026-02-26T12:32:41.824Z [gateway] listening on ws://127.0.0.1:18789, ws://[::1]:18789 (PID 4045)
+2026-02-26T12:32:41.825Z [gateway] log file: /tmp/openclaw/openclaw-2026-02-26.log
+2026-02-26T12:32:41.838Z [browser/server] Browser control listening on http://127.0.0.1:18791/ (auth=token)
+2026-02-26T12:33:09.321Z [ws] webchat connected conn=5bb0b4f3-17cd-4bd6-962c-60d9cd58c605 remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T12:33:09.870Z [ws] ⇄ res ✓ chat.history 508ms conn=5bb0b4f3…c605 id=71791eaf…3964
+2026-02-26T12:34:00.821Z [agents/tool-images] Image resized to fit limits: 2420x1752px 501.3KB -> 82.2KB (-83.6%)
+2026-02-26T12:34:00.911Z [agents/tool-images] Image resized to fit limits: 2420x1752px 452.6KB -> 73.8KB (-83.7%)
+2026-02-26T12:34:01.007Z [agents/tool-images] Image resized to fit limits: 2454x1752px 568.2KB -> 94.3KB (-83.4%)
+2026-02-26T12:34:01.096Z [agents/tool-images] Image resized to fit limits: 2454x1752px 680.5KB -> 58.4KB (-91.4%)
+2026-02-26T12:34:06.908Z [ws] ⇄ res ✓ chat.abort 120ms conn=5bb0b4f3…c605 id=b62e50a7…74e2
+2026-02-26T12:34:19.123Z [agents/tool-images] Image resized to fit limits: 2420x1752px 501.3KB -> 82.2KB (-83.6%)
+2026-02-26T12:34:19.213Z [agents/tool-images] Image resized to fit limits: 2420x1752px 452.6KB -> 73.8KB (-83.7%)
+2026-02-26T12:34:19.309Z [agents/tool-images] Image resized to fit limits: 2454x1752px 568.2KB -> 94.3KB (-83.4%)
+2026-02-26T12:34:19.397Z [agents/tool-images] Image resized to fit limits: 2454x1752px 680.5KB -> 58.4KB (-91.4%)
+2026-02-26T12:34:36.306Z [gateway] device pairing auto-approved device=db45858097374c033a86c39878ea768fd0eed90961e0df619388ecfa4e4f3707 role=operator
+2026-02-26T12:34:58.230Z [agents/tool-images] Image resized to fit limits: 2420x1752px 501.3KB -> 82.2KB (-83.6%)
+2026-02-26T12:34:58.320Z [agents/tool-images] Image resized to fit limits: 2420x1752px 452.6KB -> 73.8KB (-83.7%)
+2026-02-26T12:34:58.416Z [agents/tool-images] Image resized to fit limits: 2454x1752px 568.2KB -> 94.3KB (-83.4%)
+2026-02-26T12:34:58.521Z [agents/tool-images] Image resized to fit limits: 2454x1752px 680.5KB -> 58.4KB (-91.4%)
+2026-02-26T12:39:56.235Z [agents/tool-images] Image resized to fit limits: 2420x1752px 501.3KB -> 82.2KB (-83.6%)
+2026-02-26T12:39:56.327Z [agents/tool-images] Image resized to fit limits: 2420x1752px 452.6KB -> 73.8KB (-83.7%)
+2026-02-26T12:39:56.423Z [agents/tool-images] Image resized to fit limits: 2454x1752px 568.2KB -> 94.3KB (-83.4%)
+2026-02-26T12:39:56.512Z [agents/tool-images] Image resized to fit limits: 2454x1752px 680.5KB -> 58.4KB (-91.4%)
+2026-02-26T12:40:54.609Z [agents/tool-images] Image resized to fit limits: 2420x1752px 501.3KB -> 82.2KB (-83.6%)
+2026-02-26T12:40:54.701Z [agents/tool-images] Image resized to fit limits: 2420x1752px 452.6KB -> 73.8KB (-83.7%)
+2026-02-26T12:40:54.798Z [agents/tool-images] Image resized to fit limits: 2454x1752px 568.2KB -> 94.3KB (-83.4%)
+2026-02-26T12:40:54.888Z [agents/tool-images] Image resized to fit limits: 2454x1752px 680.5KB -> 58.4KB (-91.4%)
+2026-02-26T12:40:54.987Z [agents/tool-images] Image resized to fit limits: 2612x1752px 725.2KB -> 76.3KB (-89.5%)
+2026-02-26T12:41:09.586Z [browser/service] Browser control service ready (profiles=2)
+2026-02-26T12:42:35.100Z [agents/tool-images] Image resized to fit limits: 2420x1752px 501.3KB -> 82.2KB (-83.6%)
+2026-02-26T12:42:35.190Z [agents/tool-images] Image resized to fit limits: 2420x1752px 452.6KB -> 73.8KB (-83.7%)
+2026-02-26T12:42:35.286Z [agents/tool-images] Image resized to fit limits: 2454x1752px 568.2KB -> 94.3KB (-83.4%)
+2026-02-26T12:42:35.374Z [agents/tool-images] Image resized to fit limits: 2454x1752px 680.5KB -> 58.4KB (-91.4%)
+2026-02-26T12:42:35.471Z [agents/tool-images] Image resized to fit limits: 2612x1752px 725.2KB -> 76.3KB (-89.5%)
+2026-02-26T12:43:05.267Z [agents/tool-images] Image resized to fit limits: 2420x1752px 501.3KB -> 82.2KB (-83.6%)
+2026-02-26T12:43:05.358Z [agents/tool-images] Image resized to fit limits: 2420x1752px 452.6KB -> 73.8KB (-83.7%)
+2026-02-26T12:43:05.454Z [agents/tool-images] Image resized to fit limits: 2454x1752px 568.2KB -> 94.3KB (-83.4%)
+2026-02-26T12:43:05.543Z [agents/tool-images] Image resized to fit limits: 2454x1752px 680.5KB -> 58.4KB (-91.4%)
+2026-02-26T12:43:05.641Z [agents/tool-images] Image resized to fit limits: 2612x1752px 725.2KB -> 76.3KB (-89.5%)
+2026-02-26T12:45:45.406Z [ws] webchat disconnected code=1001 reason=n/a conn=5bb0b4f3-17cd-4bd6-962c-60d9cd58c605
+2026-02-26T12:45:45.761Z [ws] webchat connected conn=eff8fe5d-924f-4f06-a915-cdf6121b5c0e remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T12:48:43.284Z [agents/tool-images] Image resized to fit limits: 2420x1752px 501.3KB -> 82.2KB (-83.6%)
+2026-02-26T12:48:43.375Z [agents/tool-images] Image resized to fit limits: 2420x1752px 452.6KB -> 73.8KB (-83.7%)
+2026-02-26T12:48:43.470Z [agents/tool-images] Image resized to fit limits: 2454x1752px 568.2KB -> 94.3KB (-83.4%)
+2026-02-26T12:48:43.558Z [agents/tool-images] Image resized to fit limits: 2454x1752px 680.5KB -> 58.4KB (-91.4%)
+2026-02-26T12:48:43.655Z [agents/tool-images] Image resized to fit limits: 2612x1752px 725.2KB -> 76.3KB (-89.5%)
+2026-02-26T12:54:19.299Z [agents/tool-images] Image resized to fit limits: 2420x1752px 501.3KB -> 82.2KB (-83.6%)
+2026-02-26T12:54:19.390Z [agents/tool-images] Image resized to fit limits: 2420x1752px 452.6KB -> 73.8KB (-83.7%)
+2026-02-26T12:54:19.486Z [agents/tool-images] Image resized to fit limits: 2454x1752px 568.2KB -> 94.3KB (-83.4%)
+2026-02-26T12:54:19.575Z [agents/tool-images] Image resized to fit limits: 2454x1752px 680.5KB -> 58.4KB (-91.4%)
+2026-02-26T12:54:19.672Z [agents/tool-images] Image resized to fit limits: 2612x1752px 725.2KB -> 76.3KB (-89.5%)
+2026-02-26T12:56:00.527Z [agents/tool-images] Image resized to fit limits: 2420x1752px 501.3KB -> 82.2KB (-83.6%)
+2026-02-26T12:56:00.618Z [agents/tool-images] Image resized to fit limits: 2420x1752px 452.6KB -> 73.8KB (-83.7%)
+2026-02-26T12:56:00.713Z [agents/tool-images] Image resized to fit limits: 2454x1752px 568.2KB -> 94.3KB (-83.4%)
+2026-02-26T12:56:00.802Z [agents/tool-images] Image resized to fit limits: 2454x1752px 680.5KB -> 58.4KB (-91.4%)
+2026-02-26T12:56:00.899Z [agents/tool-images] Image resized to fit limits: 2612x1752px 725.2KB -> 76.3KB (-89.5%)
+2026-02-26T12:57:19.278Z [agents/tool-images] Image resized to fit limits: 2420x1752px 501.3KB -> 82.2KB (-83.6%)
+2026-02-26T12:57:19.368Z [agents/tool-images] Image resized to fit limits: 2420x1752px 452.6KB -> 73.8KB (-83.7%)
+2026-02-26T12:57:19.464Z [agents/tool-images] Image resized to fit limits: 2454x1752px 568.2KB -> 94.3KB (-83.4%)
+2026-02-26T12:57:19.553Z [agents/tool-images] Image resized to fit limits: 2454x1752px 680.5KB -> 58.4KB (-91.4%)
+2026-02-26T12:57:19.649Z [agents/tool-images] Image resized to fit limits: 2612x1752px 725.2KB -> 76.3KB (-89.5%)
+2026-02-26T12:58:54.829Z [agents/tool-images] Image resized to fit limits: 2420x1752px 501.3KB -> 82.2KB (-83.6%)
+2026-02-26T12:58:54.921Z [agents/tool-images] Image resized to fit limits: 2420x1752px 452.6KB -> 73.8KB (-83.7%)
+2026-02-26T12:58:55.017Z [agents/tool-images] Image resized to fit limits: 2454x1752px 568.2KB -> 94.3KB (-83.4%)
+2026-02-26T12:58:55.105Z [agents/tool-images] Image resized to fit limits: 2454x1752px 680.5KB -> 58.4KB (-91.4%)
+2026-02-26T12:58:55.202Z [agents/tool-images] Image resized to fit limits: 2612x1752px 725.2KB -> 76.3KB (-89.5%)
+2026-02-26T13:01:38.769Z [agents/tool-images] Image resized to fit limits: 2420x1752px 501.3KB -> 82.2KB (-83.6%)
+2026-02-26T13:01:38.859Z [agents/tool-images] Image resized to fit limits: 2420x1752px 452.6KB -> 73.8KB (-83.7%)
+2026-02-26T13:01:38.955Z [agents/tool-images] Image resized to fit limits: 2454x1752px 568.2KB -> 94.3KB (-83.4%)
+2026-02-26T13:01:39.044Z [agents/tool-images] Image resized to fit limits: 2454x1752px 680.5KB -> 58.4KB (-91.4%)
+2026-02-26T13:01:39.141Z [agents/tool-images] Image resized to fit limits: 2612x1752px 725.2KB -> 76.3KB (-89.5%)
+2026-02-26T13:02:42.768Z [agents/tool-images] Image resized to fit limits: 2420x1752px 501.3KB -> 82.2KB (-83.6%)
+2026-02-26T13:02:42.859Z [agents/tool-images] Image resized to fit limits: 2420x1752px 452.6KB -> 73.8KB (-83.7%)
+2026-02-26T13:02:42.955Z [agents/tool-images] Image resized to fit limits: 2454x1752px 568.2KB -> 94.3KB (-83.4%)
+2026-02-26T13:02:43.043Z [agents/tool-images] Image resized to fit limits: 2454x1752px 680.5KB -> 58.4KB (-91.4%)
+2026-02-26T13:02:43.139Z [agents/tool-images] Image resized to fit limits: 2612x1752px 725.2KB -> 76.3KB (-89.5%)
+2026-02-26T13:04:32.404Z [agents/tool-images] Image resized to fit limits: 2420x1752px 501.3KB -> 82.2KB (-83.6%)
+2026-02-26T13:04:32.494Z [agents/tool-images] Image resized to fit limits: 2420x1752px 452.6KB -> 73.8KB (-83.7%)
+2026-02-26T13:04:32.590Z [agents/tool-images] Image resized to fit limits: 2454x1752px 568.2KB -> 94.3KB (-83.4%)
+2026-02-26T13:04:32.678Z [agents/tool-images] Image resized to fit limits: 2454x1752px 680.5KB -> 58.4KB (-91.4%)
+2026-02-26T13:04:32.775Z [agents/tool-images] Image resized to fit limits: 2612x1752px 725.2KB -> 76.3KB (-89.5%)
+2026-02-26T13:05:34.581Z [agents/tool-images] Image resized to fit limits: 2420x1752px 501.3KB -> 82.2KB (-83.6%)
+2026-02-26T13:05:34.671Z [agents/tool-images] Image resized to fit limits: 2420x1752px 452.6KB -> 73.8KB (-83.7%)
+2026-02-26T13:05:34.766Z [agents/tool-images] Image resized to fit limits: 2454x1752px 568.2KB -> 94.3KB (-83.4%)
+2026-02-26T13:05:34.855Z [agents/tool-images] Image resized to fit limits: 2454x1752px 680.5KB -> 58.4KB (-91.4%)
+2026-02-26T13:05:34.952Z [agents/tool-images] Image resized to fit limits: 2612x1752px 725.2KB -> 76.3KB (-89.5%)
+2026-02-26T13:05:57.211Z [agents/tool-images] Image resized to fit limits: 2420x1752px 501.3KB -> 82.2KB (-83.6%)
+2026-02-26T13:05:57.301Z [agents/tool-images] Image resized to fit limits: 2420x1752px 452.6KB -> 73.8KB (-83.7%)
+2026-02-26T13:05:57.397Z [agents/tool-images] Image resized to fit limits: 2454x1752px 568.2KB -> 94.3KB (-83.4%)
+2026-02-26T13:05:57.485Z [agents/tool-images] Image resized to fit limits: 2454x1752px 680.5KB -> 58.4KB (-91.4%)
+2026-02-26T13:05:57.583Z [agents/tool-images] Image resized to fit limits: 2612x1752px 725.2KB -> 76.3KB (-89.5%)
+2026-02-26T13:07:42.798Z [agents/tool-images] Image resized to fit limits: 2420x1752px 501.3KB -> 82.2KB (-83.6%)
+2026-02-26T13:07:42.889Z [agents/tool-images] Image resized to fit limits: 2420x1752px 452.6KB -> 73.8KB (-83.7%)
+2026-02-26T13:07:42.985Z [agents/tool-images] Image resized to fit limits: 2454x1752px 568.2KB -> 94.3KB (-83.4%)
+2026-02-26T13:07:43.075Z [agents/tool-images] Image resized to fit limits: 2454x1752px 680.5KB -> 58.4KB (-91.4%)
+2026-02-26T13:07:43.172Z [agents/tool-images] Image resized to fit limits: 2612x1752px 725.2KB -> 76.3KB (-89.5%)
+2026-02-26T13:08:48.934Z [agents/tool-images] Image resized to fit limits: 2420x1752px 501.3KB -> 82.2KB (-83.6%)
+2026-02-26T13:08:49.024Z [agents/tool-images] Image resized to fit limits: 2420x1752px 452.6KB -> 73.8KB (-83.7%)
+2026-02-26T13:08:49.120Z [agents/tool-images] Image resized to fit limits: 2454x1752px 568.2KB -> 94.3KB (-83.4%)
+2026-02-26T13:08:49.208Z [agents/tool-images] Image resized to fit limits: 2454x1752px 680.5KB -> 58.4KB (-91.4%)
+2026-02-26T13:08:49.305Z [agents/tool-images] Image resized to fit limits: 2612x1752px 725.2KB -> 76.3KB (-89.5%)
+2026-02-26T13:10:27.137Z [agents/tool-images] Image resized to fit limits: 2420x1752px 501.3KB -> 82.2KB (-83.6%)
+2026-02-26T13:10:27.228Z [agents/tool-images] Image resized to fit limits: 2420x1752px 452.6KB -> 73.8KB (-83.7%)
+2026-02-26T13:10:27.323Z [agents/tool-images] Image resized to fit limits: 2454x1752px 568.2KB -> 94.3KB (-83.4%)
+2026-02-26T13:10:27.412Z [agents/tool-images] Image resized to fit limits: 2454x1752px 680.5KB -> 58.4KB (-91.4%)
+2026-02-26T13:10:27.509Z [agents/tool-images] Image resized to fit limits: 2612x1752px 725.2KB -> 76.3KB (-89.5%)
+2026-02-26T13:11:09.232Z [agents/tool-images] Image resized to fit limits: 2420x1752px 501.3KB -> 82.2KB (-83.6%)
+2026-02-26T13:11:09.322Z [agents/tool-images] Image resized to fit limits: 2420x1752px 452.6KB -> 73.8KB (-83.7%)
+2026-02-26T13:11:09.418Z [agents/tool-images] Image resized to fit limits: 2454x1752px 568.2KB -> 94.3KB (-83.4%)
+2026-02-26T13:11:09.507Z [agents/tool-images] Image resized to fit limits: 2454x1752px 680.5KB -> 58.4KB (-91.4%)
+2026-02-26T13:11:09.604Z [agents/tool-images] Image resized to fit limits: 2612x1752px 725.2KB -> 76.3KB (-89.5%)
+2026-02-26T13:11:28.272Z [agents/tool-images] Image resized to fit limits: 2420x1752px 501.3KB -> 82.2KB (-83.6%)
+2026-02-26T13:11:28.362Z [agents/tool-images] Image resized to fit limits: 2420x1752px 452.6KB -> 73.8KB (-83.7%)
+2026-02-26T13:11:28.458Z [agents/tool-images] Image resized to fit limits: 2454x1752px 568.2KB -> 94.3KB (-83.4%)
+2026-02-26T13:11:28.547Z [agents/tool-images] Image resized to fit limits: 2454x1752px 680.5KB -> 58.4KB (-91.4%)
+2026-02-26T13:11:28.643Z [agents/tool-images] Image resized to fit limits: 2612x1752px 725.2KB -> 76.3KB (-89.5%)
+2026-02-26T13:12:27.559Z [agents/tool-images] Image resized to fit limits: 2420x1752px 501.3KB -> 82.2KB (-83.6%)
+2026-02-26T13:12:27.649Z [agents/tool-images] Image resized to fit limits: 2420x1752px 452.6KB -> 73.8KB (-83.7%)
+2026-02-26T13:12:27.745Z [agents/tool-images] Image resized to fit limits: 2454x1752px 568.2KB -> 94.3KB (-83.4%)
+2026-02-26T13:12:27.834Z [agents/tool-images] Image resized to fit limits: 2454x1752px 680.5KB -> 58.4KB (-91.4%)
+2026-02-26T13:12:27.931Z [agents/tool-images] Image resized to fit limits: 2612x1752px 725.2KB -> 76.3KB (-89.5%)
+2026-02-26T13:15:12.528Z [agents/tool-images] Image resized to fit limits: 2420x1752px 501.3KB -> 82.2KB (-83.6%)
+2026-02-26T13:15:12.618Z [agents/tool-images] Image resized to fit limits: 2420x1752px 452.6KB -> 73.8KB (-83.7%)
+2026-02-26T13:15:12.714Z [agents/tool-images] Image resized to fit limits: 2454x1752px 568.2KB -> 94.3KB (-83.4%)
+2026-02-26T13:15:12.802Z [agents/tool-images] Image resized to fit limits: 2454x1752px 680.5KB -> 58.4KB (-91.4%)
+2026-02-26T13:15:12.899Z [agents/tool-images] Image resized to fit limits: 2612x1752px 725.2KB -> 76.3KB (-89.5%)
+2026-02-26T13:15:36.621Z [ws] ⇄ res ✓ config.get 292ms conn=eff8fe5d…5c0e id=bd14a725…9b57
+2026-02-26T13:17:01.791Z [agents/tool-images] Image resized to fit limits: 2420x1752px 501.3KB -> 82.2KB (-83.6%)
+2026-02-26T13:17:01.882Z [agents/tool-images] Image resized to fit limits: 2420x1752px 452.6KB -> 73.8KB (-83.7%)
+2026-02-26T13:17:01.977Z [agents/tool-images] Image resized to fit limits: 2454x1752px 568.2KB -> 94.3KB (-83.4%)
+2026-02-26T13:17:02.066Z [agents/tool-images] Image resized to fit limits: 2454x1752px 680.5KB -> 58.4KB (-91.4%)
+2026-02-26T13:17:02.163Z [agents/tool-images] Image resized to fit limits: 2612x1752px 725.2KB -> 76.3KB (-89.5%)
+2026-02-26T13:18:15.741Z [agents/tool-images] Image resized to fit limits: 2420x1752px 501.3KB -> 82.2KB (-83.6%)
+2026-02-26T13:18:15.832Z [agents/tool-images] Image resized to fit limits: 2420x1752px 452.6KB -> 73.8KB (-83.7%)
+2026-02-26T13:18:15.928Z [agents/tool-images] Image resized to fit limits: 2454x1752px 568.2KB -> 94.3KB (-83.4%)
+2026-02-26T13:18:16.017Z [agents/tool-images] Image resized to fit limits: 2454x1752px 680.5KB -> 58.4KB (-91.4%)
+2026-02-26T13:18:16.114Z [agents/tool-images] Image resized to fit limits: 2612x1752px 725.2KB -> 76.3KB (-89.5%)
+2026-02-26T13:19:08.642Z [gateway] signal SIGTERM received
+2026-02-26T13:19:08.644Z [gateway] received SIGTERM; shutting down
+2026-02-26T13:19:08.654Z [gmail-watcher] gmail watcher stopped
+2026-02-26T13:19:08.664Z [ws] webchat disconnected code=1012 reason=service restart conn=eff8fe5d-924f-4f06-a915-cdf6121b5c0e
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─╮
+│                       │
+│  - gateway.relay      │
+│                       │
+├───────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─╮
+│                       │
+│  - gateway.relay      │
+│                       │
+├───────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─╮
+│                       │
+│  - gateway.relay      │
+│                       │
+├───────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─╮
+│                       │
+│  - gateway.relay      │
+│                       │
+├───────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─╮
+│                       │
+│  - gateway.relay      │
+│                       │
+├───────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─╮
+│                       │
+│  - gateway.relay      │
+│                       │
+├───────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+2026-02-26T13:23:10.901Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/heydey/.openclaw/canvas)
+2026-02-26T13:23:10.933Z [heartbeat] started
+2026-02-26T13:23:10.935Z [health-monitor] started (interval: 300s, grace: 60s)
+2026-02-26T13:23:10.936Z [gateway] agent model: google/gemini-2.0-flash-thinking-exp
+2026-02-26T13:23:10.936Z [gateway] listening on ws://127.0.0.1:18789, ws://[::1]:18789 (PID 5838)
+2026-02-26T13:23:10.937Z [gateway] log file: /tmp/openclaw/openclaw-2026-02-26.log
+2026-02-26T13:23:10.953Z [browser/server] Browser control listening on http://127.0.0.1:18791/ (auth=token)
+2026-02-26T13:27:16.195Z [ws] webchat connected conn=76ebeca1-da58-4c00-9a7d-9764e5bbd114 remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T13:27:16.779Z [ws] ⇄ res ✓ chat.history 525ms conn=76ebeca1…d114 id=78e6bc31…6273
+2026-02-26T13:27:59.880Z [agents/tool-images] Image resized to fit limits: 2420x1752px 501.3KB -> 82.2KB (-83.6%)
+2026-02-26T13:27:59.971Z [agents/tool-images] Image resized to fit limits: 2420x1752px 452.6KB -> 73.8KB (-83.7%)
+2026-02-26T13:28:00.067Z [agents/tool-images] Image resized to fit limits: 2454x1752px 568.2KB -> 94.3KB (-83.4%)
+2026-02-26T13:28:00.155Z [agents/tool-images] Image resized to fit limits: 2454x1752px 680.5KB -> 58.4KB (-91.4%)
+2026-02-26T13:28:00.253Z [agents/tool-images] Image resized to fit limits: 2612x1752px 725.2KB -> 76.3KB (-89.5%)
+2026-02-26T13:30:00.761Z [agents/tool-images] Image resized to fit limits: 2420x1752px 501.3KB -> 82.2KB (-83.6%)
+2026-02-26T13:30:00.852Z [agents/tool-images] Image resized to fit limits: 2420x1752px 452.6KB -> 73.8KB (-83.7%)
+2026-02-26T13:30:00.947Z [agents/tool-images] Image resized to fit limits: 2454x1752px 568.2KB -> 94.3KB (-83.4%)
+2026-02-26T13:30:01.036Z [agents/tool-images] Image resized to fit limits: 2454x1752px 680.5KB -> 58.4KB (-91.4%)
+2026-02-26T13:30:01.133Z [agents/tool-images] Image resized to fit limits: 2612x1752px 725.2KB -> 76.3KB (-89.5%)
+2026-02-26T13:31:06.290Z [agents/tool-images] Image resized to fit limits: 2420x1752px 501.3KB -> 82.2KB (-83.6%)
+2026-02-26T13:31:06.382Z [agents/tool-images] Image resized to fit limits: 2420x1752px 452.6KB -> 73.8KB (-83.7%)
+2026-02-26T13:31:06.480Z [agents/tool-images] Image resized to fit limits: 2454x1752px 568.2KB -> 94.3KB (-83.4%)
+2026-02-26T13:31:06.569Z [agents/tool-images] Image resized to fit limits: 2454x1752px 680.5KB -> 58.4KB (-91.4%)
+2026-02-26T13:31:06.665Z [agents/tool-images] Image resized to fit limits: 2612x1752px 725.2KB -> 76.3KB (-89.5%)
+2026-02-26T13:32:32.811Z [agents/tool-images] Image resized to fit limits: 2420x1752px 501.3KB -> 82.2KB (-83.6%)
+2026-02-26T13:32:32.903Z [agents/tool-images] Image resized to fit limits: 2420x1752px 452.6KB -> 73.8KB (-83.7%)
+2026-02-26T13:32:32.999Z [agents/tool-images] Image resized to fit limits: 2454x1752px 568.2KB -> 94.3KB (-83.4%)
+2026-02-26T13:32:33.089Z [agents/tool-images] Image resized to fit limits: 2454x1752px 680.5KB -> 58.4KB (-91.4%)
+2026-02-26T13:32:33.186Z [agents/tool-images] Image resized to fit limits: 2612x1752px 725.2KB -> 76.3KB (-89.5%)
+2026-02-26T13:34:45.615Z [ws] webchat disconnected code=1001 reason=n/a conn=76ebeca1-da58-4c00-9a7d-9764e5bbd114
+2026-02-26T13:34:45.912Z [ws] webchat connected conn=b823f5d7-f32d-4253-a424-26f5ac86e1c7 remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T13:35:33.210Z [ws] webchat disconnected code=1001 reason=n/a conn=b823f5d7-f32d-4253-a424-26f5ac86e1c7
+2026-02-26T13:35:33.348Z [ws] webchat connected conn=478cbb7e-4d4c-4c47-8ab4-80a67077c141 remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T13:40:12.423Z [ws] webchat disconnected code=1001 reason=n/a conn=478cbb7e-4d4c-4c47-8ab4-80a67077c141
+2026-02-26T13:40:12.712Z [ws] webchat connected conn=2b90ce08-65dc-4c3e-99ab-fe1d69536d12 remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T13:43:06.905Z [ws] webchat disconnected code=1001 reason=n/a conn=2b90ce08-65dc-4c3e-99ab-fe1d69536d12
+2026-02-26T13:43:07.191Z [ws] webchat connected conn=7c8394d6-d763-4b56-be97-16d5f72dbc1d remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T13:46:02.334Z [gateway] signal SIGTERM received
+2026-02-26T13:46:02.335Z [gateway] received SIGTERM; shutting down
+2026-02-26T13:46:02.338Z [gmail-watcher] gmail watcher stopped
+2026-02-26T13:46:02.340Z [ws] webchat disconnected code=1012 reason=service restart conn=7c8394d6-d763-4b56-be97-16d5f72dbc1d
+2026-02-26T13:46:03.924Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/heydey/.openclaw/canvas)
+2026-02-26T13:46:03.952Z [heartbeat] started
+2026-02-26T13:46:03.954Z [health-monitor] started (interval: 300s, grace: 60s)
+2026-02-26T13:46:03.955Z [gateway] agent model: google/gemini-2.0-flash-thinking-exp
+2026-02-26T13:46:03.955Z [gateway] listening on ws://127.0.0.1:18789, ws://[::1]:18789 (PID 6243)
+2026-02-26T13:46:03.956Z [gateway] log file: /tmp/openclaw/openclaw-2026-02-26.log
+2026-02-26T13:46:03.964Z [browser/server] Browser control listening on http://127.0.0.1:18791/ (auth=token)
+2026-02-26T13:46:04.537Z [ws] webchat connected conn=d8ef058e-cf96-4dd3-a856-24968ae6701a remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T13:46:04.959Z [ws] ⇄ res ✓ chat.history 413ms conn=d8ef058e…701a id=813750b8…e874
+2026-02-26T13:46:30.955Z [gateway] signal SIGTERM received
+2026-02-26T13:46:30.955Z [gateway] received SIGTERM; shutting down
+2026-02-26T13:46:30.958Z [gmail-watcher] gmail watcher stopped
+2026-02-26T13:46:30.960Z [ws] webchat disconnected code=1012 reason=service restart conn=d8ef058e-cf96-4dd3-a856-24968ae6701a
+2026-02-26T13:46:32.238Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/heydey/.openclaw/canvas)
+2026-02-26T13:46:32.255Z [heartbeat] started
+2026-02-26T13:46:32.257Z [health-monitor] started (interval: 300s, grace: 60s)
+2026-02-26T13:46:32.258Z [gateway] agent model: google/gemini-2.0-flash-thinking-exp
+2026-02-26T13:46:32.258Z [gateway] listening on ws://127.0.0.1:18789, ws://[::1]:18789 (PID 6377)
+2026-02-26T13:46:32.259Z [gateway] log file: /tmp/openclaw/openclaw-2026-02-26.log
+2026-02-26T13:46:32.266Z [browser/server] Browser control listening on http://127.0.0.1:18791/ (auth=token)
+2026-02-26T13:46:33.149Z [ws] webchat connected conn=76e2027c-122d-481e-809f-e541dbc53915 remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T13:46:33.684Z [ws] ⇄ res ✓ chat.history 519ms conn=76e2027c…3915 id=37eb4c82…f96c
+2026-02-26T13:47:14.067Z [gateway] signal SIGTERM received
+2026-02-26T13:47:14.067Z [gateway] received SIGTERM; shutting down
+2026-02-26T13:47:14.070Z [gmail-watcher] gmail watcher stopped
+2026-02-26T13:47:14.074Z [ws] webchat disconnected code=1012 reason=service restart conn=76e2027c-122d-481e-809f-e541dbc53915
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─╮
+│                       │
+│  - gateway.relay      │
+│                       │
+├───────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─╮
+│                       │
+│  - gateway.relay      │
+│                       │
+├───────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─╮
+│                       │
+│  - gateway.relay      │
+│                       │
+├───────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─╮
+│                       │
+│  - gateway.relay      │
+│                       │
+├───────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─╮
+│                       │
+│  - gateway.relay      │
+│                       │
+├───────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─╮
+│                       │
+│  - gateway.relay      │
+│                       │
+├───────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─╮
+│                       │
+│  - gateway.relay      │
+│                       │
+├───────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─╮
+│                       │
+│  - gateway.relay      │
+│                       │
+├───────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─╮
+│                       │
+│  - gateway.relay      │
+│                       │
+├───────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─╮
+│                       │
+│  - gateway.relay      │
+│                       │
+├───────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─╮
+│                       │
+│  - gateway.relay      │
+│                       │
+├───────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+2026-02-26T13:49:23.712Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/heydey/.openclaw/canvas)
+2026-02-26T13:49:23.728Z [heartbeat] started
+2026-02-26T13:49:23.730Z [health-monitor] started (interval: 300s, grace: 60s)
+2026-02-26T13:49:23.731Z [gateway] agent model: google/gemini-2.0-flash-thinking-exp
+2026-02-26T13:49:23.731Z [gateway] listening on ws://127.0.0.1:18789, ws://[::1]:18789 (PID 7346)
+2026-02-26T13:49:23.732Z [gateway] log file: /tmp/openclaw/openclaw-2026-02-26.log
+2026-02-26T13:49:23.739Z [browser/server] Browser control listening on http://127.0.0.1:18791/ (auth=token)
+2026-02-26T13:49:29.375Z [ws] webchat connected conn=8ea666cf-727d-442a-9ded-6082e6440837 remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T13:49:29.926Z [ws] ⇄ res ✓ chat.history 510ms conn=8ea666cf…0837 id=05dceb56…7ffd
+2026-02-26T13:50:32.068Z [ws] webchat disconnected code=1001 reason=n/a conn=8ea666cf-727d-442a-9ded-6082e6440837
+2026-02-26T13:50:32.207Z [ws] webchat connected conn=e6a9b8c1-bc25-4006-82b4-9f7a71d1ab64 remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T14:01:11.242Z [gateway] signal SIGTERM received
+2026-02-26T14:01:11.245Z [gateway] received SIGTERM; shutting down
+2026-02-26T14:01:11.254Z [gmail-watcher] gmail watcher stopped
+2026-02-26T14:01:11.263Z [ws] webchat disconnected code=1012 reason=service restart conn=e6a9b8c1-bc25-4006-82b4-9f7a71d1ab64
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─╮
+│                       │
+│  - gateway.relay      │
+│                       │
+├───────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─╮
+│                       │
+│  - gateway.relay      │
+│                       │
+├───────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─╮
+│                       │
+│  - gateway.relay      │
+│                       │
+├───────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─╮
+│                       │
+│  - gateway.relay      │
+│                       │
+├───────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─╮
+│                       │
+│  - gateway.relay      │
+│                       │
+├───────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─╮
+│                       │
+│  - gateway.relay      │
+│                       │
+├───────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─╮
+│                       │
+│  - gateway.relay      │
+│                       │
+├───────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─╮
+│                       │
+│  - gateway.relay      │
+│                       │
+├───────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─╮
+│                       │
+│  - gateway.relay      │
+│                       │
+├───────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─╮
+│                       │
+│  - gateway.relay      │
+│                       │
+├───────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─╮
+│                       │
+│  - gateway.relay      │
+│                       │
+├───────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+│
+◇  Config ───────────────────────────────────────────────────╮
+│                                                            │
+│  Config invalid; doctor will run with best-effort config.  │
+│                                                            │
+├────────────────────────────────────────────────────────────╯
+│
+◇  Unknown config keys ─╮
+│                       │
+│  - gateway.relay      │
+│                       │
+├───────────────────────╯
+│
+◇  Doctor ────────────────────────────────────────────╮
+│                                                     │
+│  Run "openclaw doctor --fix" to remove these keys.  │
+│                                                     │
+├─────────────────────────────────────────────────────╯
+2026-02-26T14:03:31.845Z [canvas] host mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root /Users/heydey/.openclaw/canvas)
+2026-02-26T14:03:31.863Z [heartbeat] started
+2026-02-26T14:03:31.864Z [health-monitor] started (interval: 300s, grace: 60s)
+2026-02-26T14:03:31.865Z [gateway] agent model: google/gemini-2.0-flash-thinking-exp
+2026-02-26T14:03:31.865Z [gateway] listening on ws://127.0.0.1:18789, ws://[::1]:18789 (PID 8430)
+2026-02-26T14:03:31.866Z [gateway] log file: /tmp/openclaw/openclaw-2026-02-26.log
+2026-02-26T14:03:31.873Z [browser/server] Browser control listening on http://127.0.0.1:18791/ (auth=token)
+2026-02-26T14:03:47.756Z [ws] webchat connected conn=4711acb9-2cef-4e83-b6a1-0c35ffb9a33e remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T14:03:48.236Z [ws] ⇄ res ✓ chat.history 437ms conn=4711acb9…a33e id=243388f8…f1a3
+2026-02-26T14:03:50.203Z [ws] webchat disconnected code=1001 reason=n/a conn=4711acb9-2cef-4e83-b6a1-0c35ffb9a33e
+2026-02-26T14:03:50.335Z [ws] webchat connected conn=607af8bd-9a1d-4a5e-a617-6419ec4920bc remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T14:04:13.610Z [ws] ⇄ res ✓ config.get 189ms conn=607af8bd…20bc id=084731c6…7253
+2026-02-26T14:04:42.366Z [reload] config change detected; evaluating reload (meta.lastTouchedAt, agents.list)
+2026-02-26T14:04:42.369Z [reload] config change applied (dynamic reads: meta.lastTouchedAt, agents.list)
+2026-02-26T14:05:10.939Z [reload] config change detected; evaluating reload (meta.lastTouchedAt, agents.list)
+2026-02-26T14:05:10.941Z [reload] config change applied (dynamic reads: meta.lastTouchedAt, agents.list)
+2026-02-26T14:05:37.389Z [reload] config change detected; evaluating reload (meta.lastTouchedAt, agents.list)
+2026-02-26T14:05:37.391Z [reload] config change applied (dynamic reads: meta.lastTouchedAt, agents.list)
+2026-02-26T14:06:46.779Z [ws] webchat disconnected code=1001 reason=n/a conn=607af8bd-9a1d-4a5e-a617-6419ec4920bc
+2026-02-26T14:06:47.029Z [ws] webchat connected conn=06522685-8fde-4a10-9d93-e82e53ecd4c6 remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T14:29:41.041Z [ws] webchat disconnected code=1001 reason=n/a conn=06522685-8fde-4a10-9d93-e82e53ecd4c6
+2026-02-26T14:29:41.288Z [ws] webchat connected conn=b979c7c8-9981-4c85-ba42-8746ca2d7001 remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T14:36:32.436Z [ws] webchat disconnected code=1001 reason=n/a conn=b979c7c8-9981-4c85-ba42-8746ca2d7001
+2026-02-26T14:36:32.686Z [ws] webchat connected conn=0b685e57-e2d6-4fd8-a5be-49b8486e11a6 remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T14:42:44.976Z [ws] webchat disconnected code=1001 reason=n/a conn=0b685e57-e2d6-4fd8-a5be-49b8486e11a6
+2026-02-26T14:42:45.220Z [ws] webchat connected conn=137dc854-1f44-4738-9fff-e11028f59201 remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T14:57:00.764Z [browser/service] Browser control service ready (profiles=2)
+2026-02-26T15:04:29.851Z [ws] webchat disconnected code=1001 reason=n/a conn=137dc854-1f44-4738-9fff-e11028f59201
+2026-02-26T15:04:30.086Z [ws] webchat connected conn=c95952a4-5acb-4031-875b-954893c8173f remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T15:05:33.430Z [ws] webchat disconnected code=1001 reason=n/a conn=c95952a4-5acb-4031-875b-954893c8173f
+2026-02-26T15:05:33.664Z [ws] webchat connected conn=b4c76584-fe08-423f-87d0-6ed4c9043e02 remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T15:05:43.414Z [ws] webchat disconnected code=1001 reason=n/a conn=b4c76584-fe08-423f-87d0-6ed4c9043e02
+2026-02-26T15:05:43.535Z [ws] webchat connected conn=d819cc83-d7ed-4eff-9463-241b438cfef6 remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T15:11:46.828Z [ws] webchat disconnected code=1001 reason=n/a conn=d819cc83-d7ed-4eff-9463-241b438cfef6
+2026-02-26T15:11:47.118Z [ws] webchat connected conn=64d8ef39-b10e-46a5-b3e5-324a1fb5b1c9 remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T15:22:57.699Z [ws] webchat disconnected code=1001 reason=n/a conn=64d8ef39-b10e-46a5-b3e5-324a1fb5b1c9
+2026-02-26T15:22:57.971Z [ws] webchat connected conn=1eb33b1b-d382-4459-aecc-f5fad2532bf6 remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T15:30:19.734Z [ws] ⇄ res ✓ skills.status 80ms conn=1eb33b1b…2bf6 id=ebac3622…3f46
+2026-02-26T15:43:17.332Z [ws] webchat disconnected code=1006 reason=n/a conn=1eb33b1b-d382-4459-aecc-f5fad2532bf6
+2026-02-26T15:43:18.111Z [ws] webchat connected conn=547121b1-e4c9-4175-ba9c-255fdcdde0e7 remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T18:18:01.169Z [ws] webchat disconnected code=1006 reason=n/a conn=547121b1-e4c9-4175-ba9c-255fdcdde0e7
+2026-02-26T18:18:01.951Z [ws] webchat connected conn=d1d5106c-ec78-441c-bdec-ef6b6598c5a6 remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T23:57:41.185Z [ws] webchat disconnected code=1001 reason=n/a conn=d1d5106c-ec78-441c-bdec-ef6b6598c5a6
+2026-02-26T23:57:41.753Z [ws] webchat connected conn=8192c6bf-fe34-4de1-9f2e-4d18b091bc51 remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-26T23:59:05.094Z [ws] webchat disconnected code=1001 reason=n/a conn=8192c6bf-fe34-4de1-9f2e-4d18b091bc51
+2026-02-26T23:59:05.326Z [ws] webchat connected conn=87817d09-48ca-4efb-92ff-aa19cecae031 remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-27T00:00:24.527Z [ws] webchat disconnected code=1001 reason=n/a conn=87817d09-48ca-4efb-92ff-aa19cecae031
+2026-02-27T00:00:24.662Z [ws] webchat connected conn=d101b756-15cf-442c-bb8a-1f6e8fe11f91 remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-27T00:00:26.046Z [ws] webchat disconnected code=1001 reason=n/a conn=d101b756-15cf-442c-bb8a-1f6e8fe11f91
+2026-02-27T00:00:26.175Z [ws] webchat connected conn=495bd129-2236-43c3-89b0-2b16036c1a0c remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-27T00:20:08.530Z [ws] webchat disconnected code=1001 reason=n/a conn=495bd129-2236-43c3-89b0-2b16036c1a0c
+2026-02-27T00:20:08.820Z [ws] webchat connected conn=611e3583-809d-4a85-9e42-8c5f2abbc8f5 remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-27T00:20:35.253Z [ws] webchat disconnected code=1001 reason=n/a conn=611e3583-809d-4a85-9e42-8c5f2abbc8f5
+2026-02-27T00:20:35.384Z [ws] webchat connected conn=9fac9ad7-95e8-43a0-970e-500f7ab1a65f remote=127.0.0.1 client=openclaw-control-ui webchat vdev
+2026-02-27T00:56:11.522Z [ws] webchat disconnected code=1001 reason=n/a conn=9fac9ad7-95e8-43a0-970e-500f7ab1a65f
+2026-02-27T00:56:11.780Z [ws] webchat connected conn=e391dc83-4f17-4f47-9e1d-2bd5f952435c remote=127.0.0.1 client=openclaw-control-ui webchat vdev

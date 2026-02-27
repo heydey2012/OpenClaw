@@ -1,0 +1,6 @@
+2026/02/24-23:01:00.326 219ba Reusing MANIFEST /Users/heydey/.openclaw/browser/openclaw/user-data/Default/Local Storage/leveldb/MANIFEST-000001
+2026/02/24-23:01:00.333 219ba Recovering log #3
+2026/02/24-23:01:00.333 219ba Reusing old log /Users/heydey/.openclaw/browser/openclaw/user-data/Default/Local Storage/leveldb/000003.log 
+2026/02/24-23:02:00.336 219bd Level-0 table #5: started
+2026/02/24-23:02:00.344 219bd Level-0 table #5: 532418 bytes OK
+2026/02/24-23:02:00.347 219bd Delete type=0 #3

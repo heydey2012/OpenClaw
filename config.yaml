@@ -1,0 +1,8 @@
+gateway:
+  mode: local
+
+agents:
+  default: google
+
+models:
+  preferred: google/gemini-1.5-pro

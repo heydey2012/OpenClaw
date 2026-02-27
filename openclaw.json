@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "lastTouchedVersion": "2026.2.25",
+    "lastTouchedAt": "2026-02-26T14:05:36.874Z"
+  },
+  "wizard": {
+    "lastRunAt": "2026-02-26T14:03:21.230Z",
+    "lastRunVersion": "2026.2.25",
+    "lastRunCommand": "doctor",
+    "lastRunMode": "local"
+  },
+  "auth": {
+    "profiles": {
+      "google:default": {
+        "provider": "google",
+        "mode": "api_key"
+      }
+    }
+  },
+  "agents": {
+    "defaults": {
+      "model": {
+        "primary": "google/gemini-2.0-flash-thinking-exp"
+      },
+      "models": {
+        "google/gemini-3-pro-preview": {},
+        "google/gemini-2.0-flash-thinking-exp": {},
+        "google/gemini-1.5-pro": {},
+        "google/gemini-2.0-flash": {}
+      },
+      "workspace": "/Users/heydey/.openclaw/workspace",
+      "compaction": {
+        "mode": "safeguard"
+      }
+    },
+    "list": [
+      {
+        "id": "main",
+        "model": "google/gemini-3-pro-preview"
+      },
+      {
+        "id": "google",
+        "name": "google",
+        "workspace": "/Users/heydey/.openclaw/workspace-google",
+        "agentDir": "/Users/heydey/.openclaw/agents/google/agent",
+        "model": "google/gemini-3-pro-preview"
+      }
+    ]
+  },
+  "commands": {
+    "native": "auto",
+    "nativeSkills": "auto",
+    "restart": true,
+    "ownerDisplay": "raw"
+  },
+  "session": {
+    "dmScope": "per-channel-peer"
+  },
+  "channels": {
+    "telegram": {
+      "enabled": true,
+      "dmPolicy": "pairing",
+      "groupPolicy": "allowlist",
+      "streaming": "off"
+    }
+  },
+  "gateway": {
+    "port": 18789,
+    "mode": "local",
+    "bind": "loopback",
+    "auth": {
+      "mode": "token",
+      "token": "4e8c64d33d4eb8d59bc6d7b95f8b68627458ad3187295514"
+    },
+    "tailscale": {
+      "mode": "off",
+      "resetOnExit": false
+    }
+  }
+}
